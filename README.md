@@ -1,16 +1,30 @@
-# Session ID - Session Title
+# IN261 - Experience Event-Driven Integrations Hands-On with SAP Integration Suite
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+Build an end-to-end integration scenario and gain hands-on experience with SAP's event brokers, namely the SAP Event Mesh capability and SAP Integration Suite, advanced event mesh.
 
 ## Overview
 
-This session introduces attendees to...
+This session allows you to get an end-to-end impression of event-driven architecture hands-on. SAP S/4HANA Cloud is used as an event source, SAP Event Mesh and SAP Integration Suite, advanced event mesh as event brokers and event mesh, and events are consumed by a BTP based extension application and an HTML/JS based event consumer. 
+
+You will be able to experience basic and advanced features of SAP Event Mesh and specifically SAP Integration Suite, advanced event mesh.
+
+Features touched, some just shortly, some in more detail, include:
+
+- SAP S/4HANA standard notification events
+- SAP S/4HANA RAP based events
+- SAP Event Mesh queues and queue subscriptions
+- SAP Event Mesh webhooks
+- SAP Event Mesh test tool
+- SAP Integration Suite, advanced event mesh queues
+- SAP Integration Suite, advanced event mesh Cluster Manager 
+- SAP Integration Suite, advanced event mesh Mesh Manager 
+- SAP Integration Suite, advanced event mesh Event Insights and Event Management
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+- Understanding the basics of event-driven architectures, namely events, queues, topics, event subscriptions
 
 ## Exercises
 
