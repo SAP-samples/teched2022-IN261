@@ -4,6 +4,9 @@
 
 Build an end-to-end integration scenario and gain hands-on experience with SAP's event brokers, namely the SAP Event Mesh capability and SAP Integration Suite, advanced event mesh.
 
+
+![I want my ERP to be a Team Player](./images/TechEd IN261 1.png)
+
 ## Overview
 
 This session allows you to get an end-to-end impression of event-driven architecture hands-on. Starting from the event source, you will follow the flow of outbound events via the event broker to the event consumer.
