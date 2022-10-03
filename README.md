@@ -5,7 +5,7 @@
 Build an end-to-end integration scenario and gain hands-on experience with SAP's event brokers, namely the SAP Event Mesh capability and SAP Integration Suite, advanced event mesh.
 
 
-![I want my ERP to be a Team Player](./images/TechEd IN261 1.png)
+![](/../main/teched2022-IN261/images/TechEd IN261 1.png)
 
 ## Overview
 
