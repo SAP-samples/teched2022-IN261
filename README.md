@@ -4,6 +4,8 @@
 
 Build an end-to-end integration scenario and gain hands-on experience with SAP's event brokers, namely the SAP Event Mesh capability and SAP Integration Suite, advanced event mesh.
 
+Learn how you can improve your situational awareness by having your SAP backends, namely SAP S/4HANA and SAP ECC, act as a teamplayer.
+
 ![Pic 1](/./images/IN261-1.png)
 
 ## Overview
