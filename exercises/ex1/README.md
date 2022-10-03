@@ -11,5 +11,5 @@ After completing these steps you will have created...
 
 You've now ...
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - PLay around with SAP Event Mesh in a pre-configured scenario](../ex2/README.md)
 
