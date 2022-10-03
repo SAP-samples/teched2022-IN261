@@ -11,6 +11,6 @@ After completing these steps you will have created...
 
 You've now ...
 
-Continue to - [Exercise 7 - PLay around with Advanced Event Mesh](../ex7/README.md)
+Continue to - [Exercise 7 - Play around with Advanced Event Mesh](../ex7/README.md)
 
 
