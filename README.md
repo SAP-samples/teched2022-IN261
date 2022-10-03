@@ -53,13 +53,14 @@ For this more demanding scenario we will use SAP Integration Suite, advanced eve
 In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents.
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
+- [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
+- [Exercise 2 - Play around with SAP Event Mesh in pre-configured scenario](exercises/ex2/)
+- [Exercise 3 - Connect SAP Event Mesh to Advanced Event Mesh](exercises/ex3/)
+- [Exercise 4 - Consume Event in Advanced Event Mesh](exercises/ex4/)
+- [Exercise 5 - Setup an event mesh and filtering in AEM](exercises/ex5/)
+- [Exercise 6 - Start HTML Queue Consumer and consume filtered events](exercises/ex6/)   
+- [Exercise 7 - Play around with Advanced Event Mesh](exercises/ex7/)   
 
 ## How to obtain support
 
