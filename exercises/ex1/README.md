@@ -4,7 +4,7 @@ In this exercise, we will look at enabling events in SAP S/4HANA. Then we will l
 
 ## Exercise 1.1 Explore switching events on in SAP S/4HANA
 
-After completing these steps you will have looked ta how you can switch events on in SAP S/4HANA.
+After completing these steps you will have looked at how you can switch events on in SAP S/4HANA.
 
 ## Exercise 1.2 Create a queue and a topic subscription in SAP Event Mesh
 
