@@ -4,7 +4,7 @@
 
 Build an end-to-end integration scenario and gain hands-on experience with SAP's event brokers, namely the SAP Event Mesh capability and SAP Integration Suite, advanced event mesh.
 
-Learn how you can improve your situational awareness by having your SAP backends, namely SAP S/4HANA and SAP ECC, act as a teamplayer.
+Learn how you can improve your situational awareness by having your SAP backends, namely SAP S/4HANA and SAP ECC, act as a real-time teamplayer.
 
 ![Pic 1](/./images/IN261-1.png)
 
@@ -12,7 +12,7 @@ Learn how you can improve your situational awareness by having your SAP backends
 
 This session allows you to get an end-to-end impression of event-driven architecture hands-on. Starting from the event source, you will follow the flow of outbound events via the event broker to the event consumer.
 
-As an event source we will use SAP S/4HANA Cloud. SAP Event Mesh and SAP Integration Suite, advanced event mesh will be our event brokers, and events are consumed by a BTP based SAP Fiori Elements extension application and an HTML/JS based event consumer. 
+As an event source we will use SAP S/4HANA Cloud. SAP Event Mesh and SAP Integration Suite, advanced event mesh will be our event brokers, and events are consumed by a BTP based SAP Fiori Elements extension application and an HTML/JS based event consumer. During the free flow part towards the end you can use the HTML/JS based event consumer and an HTML/JS based event source to try out different features of SAP Integration Suite, advanced event mesh.
 
 The session will be broad rather than deep, with the goal to provide a highspeed end-to-end experience, with a specific focus on our new event broker SAP Integration Suite, advanced event mesh. You will be able to experience basic and advanced features of SAP Event Mesh and specifically SAP Integration Suite, advanced event mesh.
 
