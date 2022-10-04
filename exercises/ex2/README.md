@@ -3,7 +3,7 @@
 
 In this exercise, we will explore an event-driven end-to-end architecture in a pre-configured scenario. We will log into SAP Event Mesh and look at our queue and the respective queue subscription. In a next step we will create a test queue and a queue subscription. We will then open our shared extension application. Next, we will update our business partner in SAP S/4HANA and as a result trigger an event. We can now see how this event immediately disappears from our queue, and can look at it in detail in our test queue. Next, we can see that the customer/business partner has been added to the extension application.
 
-## Exercise 2.1 - Log into SAP Event Mesh and make yourself familira with it
+## Exercise 2.1 - Log into SAP Event Mesh and make yourself familiar with it
 
 After completing these steps you will have logged into SAP Event Mesh and will have explored it.
 
