@@ -12,9 +12,11 @@ Learn how you can improve your situational awareness by having your SAP backends
 
 This session allows you to get an end-to-end impression of event-driven architecture hands-on. Starting from the event source, you will follow the flow of outbound events via the event broker to the event consumer.
 
-As an event source we will use SAP S/4HANA Cloud. SAP Event Mesh and SAP Integration Suite, advanced event mesh will be our event brokers, and events are consumed by a BTP based SAP Fiori Elements extension application and an HTML/JS based event consumer. During the free flow part towards the end you can use the HTML/JS based event consumer and an HTML/JS based event source to try out different features of SAP Integration Suite, advanced event mesh.
+As an event source we will use SAP S/4HANA Cloud. SAP Event Mesh and SAP Integration Suite, advanced event mesh will be our event brokers, and events are consumed by a BTP based SAP Fiori Elements extension application and an HTML/JS based event consumer. 
 
 The session will be broad rather than deep, with the goal to provide a highspeed end-to-end experience, with a specific focus on our new event broker SAP Integration Suite, advanced event mesh. You will be able to experience basic and advanced features of SAP Event Mesh and specifically SAP Integration Suite, advanced event mesh.
+
+During the free flow part towards the end you can use the HTML/JS based event consumer and an HTML/JS based event producer to try out different features of SAP Integration Suite, advanced event mesh.
 
 Features touched, some just shortly, some in more detail, include:
 
@@ -31,13 +33,13 @@ Features touched, some just shortly, some in more detail, include:
 
 ## Scenario Setup
 
-As a call center employee your job is to follow up on newly created customers and customers for which information has been updated. You would like to do this for all customers in selected focus regions. You have no access the the SAP S/4HANA system in which the business partners are maintained, would still need to be able to work on real time data. The solution to this is a Fiori Elements based extension application on the SAP Business Technology Platform, that is, based on SAP S/4HANA business events, informed on business partner events and updated in real time.
+As a call center employee your job is to follow up on newly created customers and customers for which information has been updated. You would like to do this for all customers in selected focus regions - like the United States for example. As a call center employee, you have no access to the SAP S/4HANA system in which the business partners are maintained, would still need to be able to work on real time data. The solution to this is a Fiori Elements based extension application on the SAP Business Technology Platform, that is, based on SAP S/4HANA business events, informed on business partner events and updated in real time.
 
 ![Pic 2](/./images/IN261-2.png)
 
-This scenario sounds familiar? This is a popular SAP Discovery Center mission that we will use as a basis to look into SAP Event Mesh and SAP S/4HANA notification events. 
+The scenario sounds familiar? This is a popular SAP Discovery Center mission that we will use as a basis to look into SAP Event Mesh and SAP S/4HANA notification events. 
 
-The mission has been very successful, so has been the business case. Therefore the call center has decided to expand on a global level and open a second call center to work on customers in specific focus regions. Instead of a single event broker, in order to handle the global setup and the higher load we would use a mesh of event brokers - an event mesh - and dynamic message routing and filtering. 
+The mission has been very successful, so has been the business case. Therefore the call center has decided to expand on a global level and open a second call center in a different part of the world - to work on customers in specific focus regions. Instead of a single event broker, in order to handle the global setup and the higher load, we would use a mesh of event brokers - an event mesh - and dynamic message routing and filtering. 
 
 ![Pic 3](/./images/IN261-3.png)
 
@@ -45,8 +47,8 @@ For this more demanding scenario we will use SAP Integration Suite, advanced eve
 
 ## Requirements
 
-- Understanding the basics of event-driven architectures, namely events, queues, topics, event subscriptions
-- You would be able to execute most of the excercises without prior experience, for taking value out of the chance to explore the brokers some experience with event-driven architectures is recommended
+- Understanding the basics of event-driven architectures, namely events, queues, topics, event subscriptions ...
+- You would be able to execute most of the excercises without prior experience by just following the descriptions. For taking value out of the chance to explore the brokers, specifically Advanced Event Mesh, some experience with event-driven architectures is recommended.
 
 ## Exercises
 
@@ -61,10 +63,6 @@ In the following, the complete list of exercise steps are listed. Run through th
 - [Exercise 5 - Setup an event mesh and filtering in AEM](exercises/ex5/)
 - [Exercise 6 - Start HTML Queue Consumer and consume filtered events](exercises/ex6/)   
 - [Exercise 7 - Play around with Advanced Event Mesh](exercises/ex7/)   
-
-## How to obtain support
-
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
