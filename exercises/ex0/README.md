@@ -4,7 +4,7 @@ Before you start with the actual tutorial, run through the following preparation
 
 ## Download the excercise material
 
-Go to the [Material](..) folder. Download and unzip the AEM Samples.zip. You may do this right to the desktop.
+Go to the [Material](../..) folder. Download and unzip the AEM Samples.zip. You may do this right to the desktop.
 
 
 
