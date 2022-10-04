@@ -2,11 +2,11 @@
 
 In this exercise, we will look at the BusinessPartner event on the SAP API Business Hub and will see how to enable this event in SAP S/4HANA. 
 
-## Exercise 1.1 Look up the BusinessPartner events in SAP API Business Hub
+## Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub
 
 After completing these steps you will have seen how easy it is to look up available events in the SAP API Business Hub.
 
-## Exercise 1.2 Explore switching events on in SAP S/4HANA
+## Exercise 1.2 - Explore switching events on in SAP S/4HANA
 
 After completing these steps you will have looked at how you can switch events on in SAP S/4HANA.
 
