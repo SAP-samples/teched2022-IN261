@@ -4,18 +4,18 @@ Before you start with the actual tutorial, run through the following preparation
 
 ## Download the excercise material
 
-Download and unzip the
+Go to the main folder. Go to the material folder. Download and unzip the AEM Samples.zip. You may do this right to the desktop.
 
 Once you have unzipped the material file, you should see the following folders:
 
-AEM Samples - contains HTML/JS applications to consume and send events in an easy way
-Events - contains an number of sample events to send
-
-## System logon and user information
+- AEM Samples - contains HTML/JS applications to consume and send events in an easy way
+- Events - contains an number of sample events to send
 
 ## Participant Number
 
 When you run through the exercise steps, you need to ensure that you use your participant number that runs from 1-60.
+
+## System logon and user information
 
 ## Summary
 
