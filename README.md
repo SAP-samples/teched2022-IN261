@@ -55,7 +55,7 @@ For this more demanding scenario we will use SAP Integration Suite, advanced eve
 In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents. Exercises marked as (optional) can be skipped if wanted.
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud](exercises/ex1/)
+- [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)](exercises/ex1/)
     - [Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub (optional)](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Explore switching events on in SAP S/4HANA](exercises/ex1#exercise-11-sub-exercise-1-description)
 - [Exercise 2 - Play around with SAP Event Mesh in pre-configured scenario](exercises/ex2/)
