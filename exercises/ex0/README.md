@@ -15,6 +15,8 @@ You should see the following folders:
 
 When you run through the exercise steps, you need to ensure that you use your participant number that runs from 1-60.
 
+Ensure you know the right number.
+
 ## System logon and user information
 
 ## Summary
