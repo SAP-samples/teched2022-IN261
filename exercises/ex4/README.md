@@ -2,11 +2,11 @@
 
 In this exercise, we will consume an event from our queue in SAP Integration Suite, advanced event mesh. For that we will use the Queue Consumer HTML/JS application and you will connect against the AEM broker your have connected to SAP Event Mesh
 
-## Exercise 1.1 Start your Queue Consumer Application and connect to Advanced Event Mesh
+## Exercise 4.1 Start your Queue Consumer Application and connect to Advanced Event Mesh
 
 After completing these steps you will have connected your Queue Consumer application to Advanced Event Mesh
 
-## Exercise 1.2 Consume and explore events in Queue Consumer 
+## Exercise 4.2 Consume and explore events in Queue Consumer 
 
 After completing these steps you will have consumed events in the Queue Consumer
 
