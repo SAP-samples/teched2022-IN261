@@ -75,9 +75,11 @@ In the following, the complete list of exercise steps are listed. Run through th
     - [Exercise 5.1 - Explore an Event Mesh of two brokers](exercises/ex5#exercise-41-sub-exercise-1-description)
     - [Exercise 5.2 - Explore filtering in Advanced Event Mesh](exercises/ex5#exercise-42-sub-exercise-1-description)
 - [Exercise 6 - Start HTML Queue Consumer and consume filtered events](exercises/ex6/)  
-    - [Exercise 6.1 - Start a second Queue Consumer and connect against US West broker](exercises/ex6#exercise-41-sub-exercise-1-description)
-    - [Exercise 6.2 - Update business partner in SAP S/4HANA and check result in Queue Consumers](exercises/ex6#exercise-42-sub-exercise-1-description) 
-- [Exercise 7 - Play around with Advanced Event Mesh](exercises/ex7/)   
+    - [Exercise 6.1 - Start a second Queue Consumer and connect against US West broker](exercises/ex6#exercise-61-sub-exercise-1-description)
+    - [Exercise 6.2 - Update business partner in SAP S/4HANA and check result in Queue Consumers](exercises/ex6#exercise-62-sub-exercise-1-description) 
+- [Exercise 7 - Play around with Advanced Event Mesh (Optional)](exercises/ex7/)  
+    - [Exercise 7.1 - Explore Insights](exercises/ex7#exercise-71-sub-exercise-1-description)
+    - [Exercise 7.2 - Event Management](exercises/ex6#exercise-72-sub-exercise-1-description) 
 
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
