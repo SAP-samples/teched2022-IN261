@@ -2,8 +2,6 @@
 
 ![Pic 1](/./images/IN261-1.png)
 
-"I want my S/4HANA act as a teamplayer"
-
 ## Description
 
 Build an end-to-end integration scenario and gain hands-on experience with SAP's event brokers, namely the SAP Event Mesh capability and SAP Integration Suite, advanced event mesh.
