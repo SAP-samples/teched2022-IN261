@@ -55,28 +55,43 @@ For this more demanding scenario we will use SAP Integration Suite, advanced eve
 In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents. Exercises marked as (optional) can be skipped if wanted.
 
 - [Getting Started](exercises/ex0/)
+
+AP S/4HANA
+
 - [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)](exercises/ex1/)
     - [Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub (optional)](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Explore switching events on in SAP S/4HANA (optional)](exercises/ex1#exercise-11-sub-exercise-1-description)
+   
+SAP Event Mesh   
+   
 - [Exercise 2 - Play around with SAP Event Mesh in pre-configured scenario](exercises/ex2/)
     - [Exercise 2.1 - Log into SAP Event Mesh and make yourself familiar with it](exercises/ex1#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Create a queue and a topic subscription in SAP Event Mesh](exercises/ex1#exercise-22-sub-exercise-1-description)
     - [Exercise 2.3 - Explore the Extension Application](exercises/ex1#exercise-23-sub-exercise-1-description)
     - [Exercise 2.4 - Trigger an event and follow the flow all the way from SAP S/4HANA to the extension application](exercises/ex1#exercise-24-sub-exercise-1-description)
+    
+SAP Event Mesh and SAP Integration Suite, advanced event mesh 
+    
 - [Exercise 3 - Connect SAP Event Mesh to Advanced Event Mesh](exercises/ex3/)
     - [Exercise 3.1 - Create a queue and a topic subscription](exercises/ex3#exercise-31-sub-exercise-1-description)
     - [Exercise 3.2 - Log into Advanced Event Mesh and explore it](exercises/ex3#exercise-32-sub-exercise-1-description)
     - [Exercise 3.3 - Create a queue in Advanced Event Mesh](exercises/ex3#exercise-33-sub-exercise-1-description)
     - [Exercise 3.4 - Create a webhook to send events to Advanced Event Mesh](exercises/ex1#exercise-34-sub-exercise-1-description)
+    
+SAP Integration Suite, advanced event mesh    
+    
 - [Exercise 4 - Consume Event in Advanced Event Mesh](exercises/ex4/)
     - [Exercise 4.1 - Start your Queue Consumer Application and connect to Advanced Event Mesh](exercises/ex4#exercise-41-sub-exercise-1-description)
     - [Exercise 4.2 - Consume and explore events in Queue Consumer](exercises/ex4#exercise-42-sub-exercise-1-description)
+    
 - [Exercise 5 - Explore event mesh and filtering in AEM](exercises/ex5/)
     - [Exercise 5.1 - Explore an Event Mesh of two brokers](exercises/ex5#exercise-41-sub-exercise-1-description)
     - [Exercise 5.2 - Explore filtering in Advanced Event Mesh](exercises/ex5#exercise-42-sub-exercise-1-description)
+    
 - [Exercise 6 - Start HTML Queue Consumer and consume filtered events](exercises/ex6/)  
     - [Exercise 6.1 - Start a second Queue Consumer and connect against US West broker](exercises/ex6#exercise-61-sub-exercise-1-description)
     - [Exercise 6.2 - Update business partner in SAP S/4HANA and check result in Queue Consumers](exercises/ex6#exercise-62-sub-exercise-1-description) 
+    
 - [Exercise 7 - Play around with Advanced Event Mesh (Optional)](exercises/ex7/)  
     - [Exercise 7.1 - Explore Insights](exercises/ex7#exercise-71-sub-exercise-1-description)
     - [Exercise 7.2 - Event Management](exercises/ex6#exercise-72-sub-exercise-1-description) 
