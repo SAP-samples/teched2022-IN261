@@ -9,7 +9,13 @@ In SAP S/4HANA we will update our business partner and as a result trigger an ev
 
 ## Exercise 2.1 - Log into SAP Event Mesh and make yourself familiar with it
 
-After completing these steps you will have logged into SAP Event Mesh and will have explored it.
+Now we will have log into SAP Event Mesh and explored its main features.
+
+1. Click on the link and enter your user and password
+
+Link:
+User: TechEd-IN261-** where you replace ** with your user number
+Password:
 
 ## Exercise 2.2 - Create a queue and a topic subscription in SAP Event Mesh
 
