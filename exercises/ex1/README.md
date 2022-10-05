@@ -1,4 +1,4 @@
-# Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud
+# Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)
 
 We will look for and at Business Partner events on the SAP API Business Hub and will see how to enable these events in SAP S/4HANA. 
 
@@ -14,19 +14,40 @@ You will see how easy it is to look up available events in the SAP API Business 
 6. Click on Event References
 7. Now you can select your event on the left (Changed, Created) or click into the green box to expand the event description. You will see the Request body with example values.
 
-![Pic 1](/./images/IN261-ex1-1.png)
+![API Business Hub](/./images/IN261-ex1-1.png)
 
 8. Click on Schema to see the Schema
 
-## Exercise 1.2 - Explore switching events on in SAP S/4HANA
+## Exercise 1.2 - Explore switching events on in SAP S/4HANA (optional)
 
-After completing these steps you will have looked at how you can switch events on in SAP S/4HANA.
+Now we will look at how to switch events on in SAP S/4HANA.
+
+HINT: the environment is pre-configured to expose events. We will use a shared channel to explore this feature.
+
+1. Log into SAP S/4HANA Cloud using the below link and your user an password.
+2. Click on the Enterprise Event Enablement Tile (under Enterprise Event Enablement)
+
+![Enterprise Event Enablement](/./images/IN261-ex1-2.png)
+
+3. Click Go
+4. Select our example channel SAP_CP_XF_EXAMPLE by clicking on the arrow behind the name
+5. You should see the Business Partner events enabled in the Outbound Topics section
+6. Click on Create
+7. On the Outbound Topics page, expand the selection box for topic and check on the available events in the system by simply scrolling down
+8. Select an Outbound Topic
+9. Click Create
+10. You will see the topic assigned
+11. Mark the topic you have added using the checkbox and click Delete
+12. Confirm the deletion by clicking Delete
+13. Go back to Home
 
 ## Summary
 
 You have now:
 
-- explored a SAP S/4HANA standard notification event and how it is switched on
+- explored a SAP S/4HANA standard notification event in SAP API Business Hub
+- you have assigned an event to a channel
+- you have deleted this event again
 
 Continue to - [Exercise 2 - Play around with SAP Event Mesh in a pre-configured scenario](../ex2/README.md)
 
