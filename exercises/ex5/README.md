@@ -2,7 +2,7 @@
 
 In this exercise, we will explore and already existing event mesh of two brokers: one in Europe, on on the West coast of the United States. On top, you will look into an already pre-set-up filtering.  
 
-## Exercise 5.1 Explore Event Mesh of two brokers
+## Exercise 5.1 Explore an Event Mesh of two brokers
 
 After completing these steps you will have seen what an event mesh looks like in Advanced Event Mesh.
 
