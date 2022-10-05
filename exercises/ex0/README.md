@@ -21,7 +21,7 @@ Go to the [main](https://github.com/SAP-samples/teched2022-IN261/tree/main) fold
 
 To download, click on Code and select Download ZIP
 
-![Download ZIP](/./images/IN261-4.png)
+![Download ZIP](/./images/IN261-ex0-1.png)
 
 ## Result of cloning or download and unzipping
 
