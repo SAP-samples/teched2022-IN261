@@ -1,7 +1,9 @@
 # Exercise 2 - Play around with SAP Event Mesh in a pre-configured scenario
 
 
-In this exercise, we will explore an event-driven end-to-end architecture in a pre-configured scenario. We will log into SAP Event Mesh and look at our queue and the respective queue subscription. In a next step we will create a test queue and a queue subscription. We will then open our shared extension application. Next, we will update our business partner in SAP S/4HANA and as a result trigger an event. We can now see how this event immediately disappears from our queue, and can look at it in detail in our test queue. Next, we can see that the customer/business partner has been added to the extension application.
+Now we will explore an event-driven end-to-end architecture in a pre-configured scenario. First, we will log into SAP Event Mesh and look at our queue and the respective queue subscription. In a next step we will create a test queue and another queue subscription for this queue. Then, we will open our shared extension application. 
+
+In SAP S/4HANA we will update our business partner and as a result trigger an event. We can now see how this event is added to our queue and then almost immediately disappears from our queue. Since the extension application does not consume from our test queue, we can consume the event and look at it. Next, we can see that the customer/business partner has been added to the extension application and that additional data has been collected using an API call to the backend.
 
 ## Exercise 2.1 - Log into SAP Event Mesh and make yourself familiar with it
 
