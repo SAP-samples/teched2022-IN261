@@ -56,7 +56,7 @@ In the following, the complete list of exercise steps are listed. Run through th
 
 - [Getting Started](exercises/ex0/)
 
-AP S/4HANA
+SAP S/4HANA
 
 - [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)](exercises/ex1/)
     - [Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub (optional)](exercises/ex1#exercise-11-sub-exercise-1-description)
