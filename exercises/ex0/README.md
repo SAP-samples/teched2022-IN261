@@ -27,7 +27,7 @@ To download, click on Code and select Download ZIP
 
 You should be able to find the tools you will need later on in the folder teched2022-IN261-main/tools/AEM Samples/src/basic-samples
 
-- basic-samples - contains HTML/JS applications to consume and send events in an easy way
+The basic-samples folder contains HTML/JS applications to consume and send events in an easy way.
 
 ## Participant Number
 
