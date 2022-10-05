@@ -12,6 +12,13 @@ To download, click on Code and select Download ZIP
 
 To clone, follow the steps below:
 
+To check out the project, clone this GitHub repository:
+
+```
+git clone https://github.com/SAP-samples/teched2022-IN261/tree/main/tools/AEM%20Samples
+cd AEM Samples
+```
+
 You should see the following folders:
 
 - AEM Samples - contains HTML/JS applications to consume and send events in an easy way
