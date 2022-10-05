@@ -13,6 +13,9 @@ You will see how easy it is to look up available events in the SAP API Business 
 5. Click on the tile. This will take you to the Event Overview page.
 6. Click on Event References
 7. Now you can select your event on the left (Changed, Created) or click into the green box to expand the event description. You will see the Request body with example values.
+
+![Pic 1](/./images/IN261-ex1-1.png)
+
 8. Click on Schema to see the Schema
 
 ## Exercise 1.2 - Explore switching events on in SAP S/4HANA
