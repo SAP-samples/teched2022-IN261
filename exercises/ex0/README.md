@@ -4,7 +4,9 @@ Before you start with the actual tutorial, run through the following preparation
 
 ## Download the excercise material
 
-Go to the [tools](https://github.com/SAP-samples/teched2022-IN261/tree/main/tools) folder. Clone or download the AEM Samples. 
+Go to the [main](https://github.com/SAP-samples/teched2022-IN261/tree/main) folder. Clone or download the AEM Samples.
+
+To download, click on Code and select Download ZIP
 
 You should see the following folders:
 
