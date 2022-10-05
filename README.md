@@ -57,7 +57,7 @@ In the following, the complete list of exercise steps are listed. Run through th
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)](exercises/ex1/)
     - [Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub (optional)](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Explore switching events on in SAP S/4HANA](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 1.2 - Explore switching events on in SAP S/4HANA (optional)](exercises/ex1#exercise-11-sub-exercise-1-description)
 - [Exercise 2 - Play around with SAP Event Mesh in pre-configured scenario](exercises/ex2/)
     - [Exercise 2.1 - Log into SAP Event Mesh and make yourself familiar with it](exercises/ex1#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Create a queue and a topic subscription in SAP Event Mesh](exercises/ex1#exercise-22-sub-exercise-1-description)
