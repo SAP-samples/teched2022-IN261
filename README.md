@@ -1,12 +1,14 @@
 # IN261 - Experience Event-Driven Integrations Hands-On with SAP Integration Suite
 
+![Pic 1](/./images/IN261-1.png)
+
+"I want my S/4HANA act as a teamplayer"
+
 ## Description
 
 Build an end-to-end integration scenario and gain hands-on experience with SAP's event brokers, namely the SAP Event Mesh capability and SAP Integration Suite, advanced event mesh.
 
 Learn how you can improve your situational awareness by having your SAP backends, namely SAP S/4HANA and SAP ECC, act as a real-time teamplayer.
-
-![Pic 1](/./images/IN261-1.png)
 
 ## Overview
 
