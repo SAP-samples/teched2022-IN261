@@ -1,6 +1,6 @@
 # Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud
 
-In this exercise, we will look at the BusinessPartner event on the SAP API Business Hub and will see how to enable this event in SAP S/4HANA. 
+In this exercise, we will look at Business Partner events on the SAP API Business Hub and will see how to enable these events in SAP S/4HANA. 
 
 ## Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub (optional)
 
