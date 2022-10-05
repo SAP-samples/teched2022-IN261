@@ -4,9 +4,9 @@ Before you start with the actual tutorial, run through the following preparation
 
 ## Download the excercise material
 
-Go to the material folder. Download and unzip the AEM Samples.zip. You may do this right to the desktop.
+Go to the tools folder. Download the AEM Samples. 
 
-Once you have unzipped the material file, you should see the following folders:
+You should see the following folders:
 
 - AEM Samples - contains HTML/JS applications to consume and send events in an easy way
 - Events - contains an number of sample events to send
