@@ -37,7 +37,7 @@ As a call center employee your job is to follow up on newly created customers an
 
 ![Pic 2](/./images/IN261-2.png)
 
-The scenario sounds familiar? This is a popular SAP Discovery Center mission that we will use as a basis to look into SAP Event Mesh and SAP S/4HANA notification events. 
+The scenario sounds familiar? This is a popular SAP Discovery Center mission that we will use as a basis to look into SAP Event Mesh and SAP S/4HANA notification events. The original mission can be found in the [Discovery Center](https://discovery-center.cloud.sap/missiondetail/3156/3192/) . It holds a lot more detail and steps include development and deployment.
 
 The mission has been very successful, so has been the business case. Therefore the call center has decided to expand on a global level and open a second call center in a different part of the world - to work on customers in specific focus regions. Instead of a single event broker, in order to handle the global setup and the higher load, we would use a mesh of event brokers - an event mesh - and dynamic message routing and filtering. 
 
