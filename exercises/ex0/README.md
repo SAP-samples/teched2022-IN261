@@ -8,6 +8,10 @@ Go to the [main](https://github.com/SAP-samples/teched2022-IN261/tree/main) fold
 
 To download, click on Code and select Download ZIP
 
+![Download ZIP](/./images/IN261-4.png)
+
+To clone, follow the steps below:
+
 You should see the following folders:
 
 - AEM Samples - contains HTML/JS applications to consume and send events in an easy way
