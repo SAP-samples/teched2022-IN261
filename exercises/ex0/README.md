@@ -11,8 +11,8 @@ There are two options to get access to the tools needed later.
 To check out the project, clone this GitHub repository by opening a terminal an typing:
 
 ```
-git clone https://github.com/SAP-samples/teched2022-IN261/tree/main/tools/AEM%20Samples
-cd AEM Samples
+git clone https://github.com/SAP-samples/teched2022-IN261
+cd teched2022-IN261-main/tools/AEM Samples/src/basic-samples
 ```
 
 ### Option 2 - Download and unzip
