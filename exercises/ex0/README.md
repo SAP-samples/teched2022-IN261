@@ -6,7 +6,7 @@ Before you start with the actual tutorial, run through the following preparation
 
 There are two options to get access to the tools needed later. 
 
-Option 1 - Clone the GitHub repository
+### Option 1 - Clone the GitHub repository
 
 To check out the project, clone this GitHub repository by opening a terminal an typing:
 
@@ -15,7 +15,7 @@ git clone https://github.com/SAP-samples/teched2022-IN261/tree/main/tools/AEM%20
 cd AEM Samples
 ```
 
-Option 2 - Download and unzip
+### Option 2 - Download and unzip
 
 Go to the [main](https://github.com/SAP-samples/teched2022-IN261/tree/main) folder. Clone or download the AEM Samples.
 
