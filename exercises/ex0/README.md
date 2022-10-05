@@ -25,10 +25,9 @@ To download, click on Code and select Download ZIP
 
 ## Result of cloning or download and unzipping
 
-You should see the following folders:
+You should be able to find the tools you will need later on in the folder teched2022-IN261-main/tools/AEM Samples/src/basic-samples
 
-- AEM Samples - contains HTML/JS applications to consume and send events in an easy way
-- Events - contains an number of sample events to send
+- basic-samples - contains HTML/JS applications to consume and send events in an easy way
 
 ## Participant Number
 
