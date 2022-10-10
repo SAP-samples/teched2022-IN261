@@ -9,7 +9,7 @@ In SAP S/4HANA we will update our business partner and as a result trigger an ev
 
 ## Exercise 2.1 - Log into SAP Event Mesh and make yourself familiar with it
 
-Now we will have log into SAP Event Mesh and explored its main features.
+Now we will log into SAP Event Mesh and explored its main features.
 
 1. Click on the link and enter your user and password:
 
@@ -32,7 +32,7 @@ After completing these steps you will have looked at the queue of your extension
 
 1. Click on Create Queue. The Create a New Queue pop up becomes visible.
 
-2. Enter aemconnect** into Queue Name (replace ** with your number)
+2. Enter IN261-test** into Queue Name (replace ** with your number)
 
 3. Click Create
 
@@ -109,7 +109,7 @@ Note down / remember your BusinessPartnerId
   
 8. Click on Test
   
-9. In the Consume Messages section on the right, select your queue from the pull down menu.
+9. In the Consume Messages section on the right, select your queue (IN261-test**) from the pull down menu.
   
 10. Click on Consume Message
   
