@@ -44,6 +44,12 @@ You have no created a queue and a queue subscription that we will use for Advanc
 
 After completing these steps you will familiarized yourself with AEM.
 
+1. Log into Advanced Event Mesh
+
+Link: https://eu10.console.pubsub.em.services.cloud.sap/home?login=true
+User: IN261_
+Password:
+
 ## Exercise 3.3 - Create a queue in Advanced Event Mesh
 
 After completing these steps you will have created a queue in Advanced Event Mesh and will have collected the required data to create a webhook in SAP Event Mesh.
