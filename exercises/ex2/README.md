@@ -98,19 +98,36 @@ Password: <PASSWORD>
 Wait for the creation to finish and keep the page open / bookmark this page for later use
 
 You should have raised a BusinessPartner Create Event. Go to Event Mesh and check on your queue and then check that the Business Partner got added to the Extension Application.
+  
+Note down / remember your BusinessPartnerId  
 
 5. Go to SAP Event Mesh
 
 6. In case you are still in Event Mesh, click Refresh. If not, go to the Queues list.
+  
+7. Find your queue. You should now see a number of messages in the queue. This is because everybody has probably already updated their Business Partner and the queue is listening to Business Partner changes.
+  
+8. Click on Test
+  
+9. In the Consume Messages section on the right, select your queue from the pull down menu.
+  
+10. Click on Consume Message
+  
+11. Consume the messages until you find your Business Partner Id in the data section   
 
-
+12. Go to the Extension Application
+  
+13. Click Go
+  
+14. Find your Business Partner under Customer Name and confirm it has been added to the Extension Application. If you want to, you can play around with it some by changing the status etc.  
+  
 ## Summary
 
 You have now:
 
 - triggered a business partner event from SAP S/4HANA Cloud
 - created a queue and a topic subscription in SAP Event Mesh
-- have explored the BusinessPartner.changed event in your test queue
+- have explored the BusinessPartner.changed event in your queue
 - have seen the updated customer added to the extension application
 
 Continue to - [Exercise 3 - Connect SAP Event Mesh to Advanced Event Mesh](../ex3/README.md)
