@@ -47,17 +47,77 @@ After completing these steps you will familiarized yourself with AEM.
 1. Log into Advanced Event Mesh
 
 Link: https://eu10.console.pubsub.em.services.cloud.sap/home?login=true
-User: IN261_
-Password:
+User: TechEd-IN261-** (replace ** with your user number)
+Password: <PASSWORD>
+  
+2. Explore Advanced Event Mesh  
 
 ## Exercise 3.3 - Create a queue in Advanced Event Mesh
 
 After completing these steps you will have created a queue in Advanced Event Mesh and will have collected the required data to create a webhook in SAP Event Mesh.
+  
+1. Click on Cluster Manager on the left
+  
+2. In the All Services screen click on the TechEd Las Vegas Tile (Frankfurt)
+  
+3. Click in Manage
+  
+4. Under Broker Manager Quick Setting click the Queues tile. A new window opens up.
+  
+5. Click the +Queue button on the top right
+  
+6. In the pop up enter the queue name: IN261-aemconnect** (replace ** with your number)
+  
+7. Click Create
+  
+8. On the next screen click Apply
+  
+9. Check whether you can see your queue in the list  
 
 ## Exercise 3.4 - Create a webhook to send events to Advanced Event Mesh
 
 After completing these steps you will have created a webhook to send events from SAP Event Mesh to Advanced Event Mesh.
 
+1. In Advanced Event Mesh, go to the overview window again (HINT: remember that a second browser window got opened; go to the parent window)
+  
+2. Click on Connect
+  
+3. Click on REST and expand the details
+  
+4. Keep this browser window open. You will have to copy data over into SAP Event Mesh.
+  
+5. Go to SAP Event Mesh
+  
+6. Click on Webhooks
+  
+7. Click on Create Webhook. This opens a popoup.
+  
+8. Into the Subscription Name field enter: IN261-aemconnect** (replace ** with your number)
+  
+9. Select your queue from the drop down in Queue Name
+  
+10. Exempt Handshake: set to YES by clicking on the button
+  
+11. Go to Advanced Event Mesh and copy the Webhook URL. You can click on the copy icon behind Secured Web Messaging Host / Public Internet.
+  
+12. Past this into SAP Event Mesh - Webhook URL
+  
+13. Change Authentication to Basic Authentication
+  
+14. Go to Advanced Event Mesh 
+  
+15. Copy User Name by clicking on the copy icon
+  
+16. Go to Event Mesh and paste the user name into user  
+  
+17. Go to Advanced Event Mesh 
+  
+18. Copy Password by clicking on the copy icon
+  
+19. Go to Event Mesh and paste the password into Password
+  
+20. Click on create  
+  
 ## Summary
 
 You have now setup the one-directional connectivity between SAP Event Mesh and SAP Advanced Event Mesh 
