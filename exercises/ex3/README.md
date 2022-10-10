@@ -116,7 +116,7 @@ After completing these steps you will have created a webhook to send events from
   
 19. Go to Event Mesh and paste the password into Password
   
-20. Click on create  
+20. Click on create 
   
 ## Summary
 
