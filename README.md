@@ -88,7 +88,7 @@ SAP Integration Suite, advanced event mesh
     - [Exercise 4.1 - Start your Queue Consumer Application and connect to Advanced Event Mesh](exercises/ex4#exercise-41-sub-exercise-1-description)
     - [Exercise 4.2 - Consume and explore events in Queue Consumer](exercises/ex4#exercise-42-sub-exercise-1-description)
     
-- [Exercise 5 - Explore event mesh and filtering in AEM](exercises/ex5/)
+- [Exercise 5 - Explore an event mesh spanning two continents in Advanced Event Mesh](exercises/ex5/)
 
     - [Exercise 5.1 - Explore an Event Mesh of two brokers](exercises/ex5#exercise-41-sub-exercise-1-description)
     - [Exercise 5.2 - Explore filtering in Advanced Event Mesh](exercises/ex5#exercise-42-sub-exercise-1-description)
