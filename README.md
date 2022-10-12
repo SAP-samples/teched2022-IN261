@@ -90,13 +90,13 @@ SAP Integration Suite, advanced event mesh
     
 - [Exercise 5 - Explore an event mesh spanning two continents in Advanced Event Mesh](exercises/ex5/)
 
-    - [Exercise 5.1 - Explore an Event Mesh of two brokers](exercises/ex5#exercise-41-sub-exercise-1-description)
-    - [Exercise 5.2 - Explore filtering in Advanced Event Mesh](exercises/ex5#exercise-42-sub-exercise-1-description)
+    - [Exercise 5.1 - Create a Queue in your second broker](exercises/ex5#exercise-41-sub-exercise-1-description)
+    - [Exercise 5.2 - Consume and explore events in Queue Consumer](exercises/ex5#exercise-42-sub-exercise-1-description)
     
 - [Exercise 6 - Start HTML Queue Consumer and consume filtered events](exercises/ex6/)  
 
     - [Exercise 6.1 - Start a second Queue Consumer and connect against US West broker](exercises/ex6#exercise-61-sub-exercise-1-description)
-    - [Exercise 6.2 - Update business partner in SAP S/4HANA and check result in Queue Consumers](exercises/ex6#exercise-62-sub-exercise-1-description) 
+    - [Exercise 6.2 - Set up Filtering and Consume Filtered Events](exercises/ex6#exercise-62-sub-exercise-1-description) 
    
 SAP Integration Suite, advanced event mesh (optional)       
    
