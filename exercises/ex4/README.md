@@ -12,6 +12,9 @@ After completing these steps you will have connected your Queue Consumer applica
 
 3. Go to the directory tools/AEM Samples/src/basci-samples/QueueConsumer
 
+
+![Pic 1](/./images/IN261-ex4-1.png)
+
 4. Open up the QueueConsumer.html file with an editor
 
 5. Go to the line
@@ -21,9 +24,13 @@ After completing these steps you will have connected your Queue Consumer applica
         
 and replace AEMCONNECT1 with the name of your queue in Advanced Event Mesh, which should be AEMCONNECT** where ** is your individual number.
 
+![Pic 2](/./images/IN261-ex4-2.png)
+
 6. Save the file after you have made the changes.
 
 7. Double click on QueueConsumer.html. The Queue Consumer app opens up.
+
+![Pic 3](/./images/IN261-ex4-3.png)
 
 8. Go to Advanced Event Mesh
 
