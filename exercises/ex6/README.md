@@ -6,7 +6,11 @@ In this exercise, we will setup filtering to provide only filtered events and co
 
 You can keep the QueueConsumer connected that you have used before. If you have disconnected, follow these steps to connect again:
 
-## Exercise 6.2 Set up Filtering and Consume Filtered Events
+## Exercise 6.2 Set up Filtering
+
+After completing these steps 
+
+## Exercise 6.3 Consume Filtered Events
 
 After completing these steps 
 
