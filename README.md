@@ -95,8 +95,8 @@ SAP Integration Suite, advanced event mesh
     
 - [Exercise 6 - Start HTML Queue Consumer and consume filtered events](exercises/ex6/)  
 
-    - [Exercise 6.2 - Set up Filtering](exercises/ex6#exercise-62-sub-exercise-1-description) 
-    - [Exercise 6.1 - Start a second Queue Consumer and connect against US West broker](exercises/ex6#exercise-61-sub-exercise-1-description) 
+    - [Exercise 6.1 - Set up Filtering](exercises/ex6#exercise-61-sub-exercise-1-description) 
+    - [Exercise 6.2 - Start a second Queue Consumer and connect against US West broker](exercises/ex6#exercise-62-sub-exercise-1-description) 
     - [Exercise 6.3 - Consume Filtered Events](exercises/ex6#exercise-63-sub-exercise-1-description) 
    
 SAP Integration Suite, advanced event mesh (optional)       
