@@ -2,9 +2,15 @@
 
 In this exercise, we will explore an already existing event mesh of two brokers: one in Europe, one on the West coast of the United States. 
 
-## Exercise 5.1 Explore an Event Mesh of two brokers
+## Exercise 5.1 Create a Queue in your second broker
 
-After completing these steps you will have seen what an event mesh looks like in Advanced Event Mesh.
+After completing these steps you will have created a queue of the same name on your second broker.
+
+
+
+## Exercise 5.2 Consume and explore events in Queue Consumer 
+
+After completing these steps you will have consumed events using the Queue Consumer from the second broker in the Event Mesh, meaning that the events got forwarded in your Mesh
 
 1. Go to your Queue Consumer
 
@@ -24,17 +30,13 @@ After completing these steps you will have seen what an event mesh looks like in
 
 9. In the Queue Consumer, click Connect. You should get a success message indicating that the connection has worked.
 
-## Exercise 5.2 Consume and explore events in Queue Consumer 
-
-After completing these steps you will have consumed events using the Queue Consumer from the second broker in the Event Mesh, meaning that the events got forwarded in your Mesh
-
 1. In order to consume messages from your queue, click on *Consume Messages*. If you would like to stop consuming later on, click *Stop Consuming*.
 
 2. Go back to the SAP S/4HANA system and update your BusinessPartner. If everything works, you should now receive the BusinessPartner.changed event in your Queue consumer on the second broker.
 
 ## Summary
 
-You've now seen what a mesh looks like in Advanced Event Mesh. You consumed the events from the second broker in the mesh.
+You've now seen what a mesh looks like in Advanced Event Mesh. You consumed the events from a queue on the second broker in the mesh - the one on the US West Coast. The forwarding of events has happened automatically.
 
 Continue to - [Exercise 6 - Start HTML Queue Consumer and consume filtered events](../ex6/README.md)
 
