@@ -1,18 +1,18 @@
-# Exercise 6 - Start HTML Queue Consumer and consume filtered events
+# Exercise 6 - Use HTML Queue Consumer and consume filtered events
 
-In this exercise, we will create...
+In this exercise, we will setup filtering to provide only filtered events and consume these from your event mesh
 
 ## Exercise 6.1 Start a second Queue Consumer and connect against US West broker
 
-After completing these steps you will have started a second Queue Consumer application and you will have connected it against the second event broker
+You can keep the QueueConsumer connected that you have used before. If you have disconnected, follow these steps to connect again:
 
-## Exercise 6.2 Update your business partner in SAP S/4HANA and check result in both Queue Consumers
+## Exercise 6.2 Set up Filtering and Consume Filtered Events
 
-After completing these steps you will have seen that the BusinessPartner event you have raised in SAP S/4HANA will have been available on both "meshed" Event Brokers.
+After completing these steps 
 
 ## Summary
 
-You've now raised an event in SAP S/4HANA, seen it getting forwarded via SAP Event Mesh to Advanced Event Mesh, seen it getting distributed across the mesh and have consumed it from two different, meshed event brokers.
+You've now raised an event in SAP S/4HANA, seen it getting forwarded via SAP Event Mesh to Advanced Event Mesh, seen it getting distributed across the mesh and have .
 
 Continue to - [Exercise 7 - Play around with Advanced Event Mesh](../ex7/README.md)
 
