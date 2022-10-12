@@ -45,6 +45,8 @@ After completing these steps you will have consumed events using the Queue Consu
 
 1. In order to consumer messages from your queue, click on *Consume Messages*. If you would like to stop consuming later on, click *Stop Consuming*.
 
+2. In case there were events in your queue, they automatically get consumed.
+
 2. Go back to the SAP S/4HANA system and update your BusinessPartner. If everytging works, you should now receive the BusinessPartner.changed event in your Queue consumer.
 
 ## Summary
