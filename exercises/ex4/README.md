@@ -36,15 +36,29 @@ and replace AEMCONNECT1 with the name of your queue in Advanced Event Mesh, whic
 
 9. Click on Cluster Manager
 
-10. Click on the tile for TecEd Las Vegas (Frankfurt)
+![Pic 4](/./images/IN261-ex4-4.png)
+
+10. Click on the tile for TechEd Las Vegas (Frankfurt)
+
+![Pic 5](/./images/IN261-ex4-5.png)
 
 11. Click on Connect
 
+![Pic 6](/./images/IN261-ex4-6.png)
+
 12. Expand Solace Web Messaging (ensure this - REST as before will not work)
+
+![Pic 7](/./images/IN261-ex4-7.png)
 
 13. Copy Username, Password, Message VPN and Secured Web Messaging Host into the respective fields of your Queue Consumer
 
-14. In the Queue Consumer, click Connect. You should get a success message indicating that the connection has worked.
+14. In the Queue Consumer, click Connect. 
+
+![Pic 8](/./images/IN261-ex4-8.png)
+
+You should get a success message indicating that the connection has worked.
+
+![Pic 9](/./images/IN261-ex4-9.png)
 
 ## Exercise 4.2 Consume and explore events in Queue Consumer 
 
@@ -52,9 +66,13 @@ After completing these steps you will have consumed events using the Queue Consu
 
 1. In order to consumer messages from your queue, click on *Consume Messages*. If you would like to stop consuming later on, click *Stop Consuming*.
 
+![Pic 10](/./images/IN261-ex4-10.png)
+
 2. In case there were events in your queue, they automatically get consumed.
 
-2. Go back to the SAP S/4HANA system and update your BusinessPartner. If everytging works, you should now receive the BusinessPartner.changed event in your Queue consumer.
+3. Go back to the SAP S/4HANA system and update your BusinessPartner. If everything works, you should now receive the BusinessPartner.changed event in your Queue consumer.
+
+![Pic 11](/./images/IN261-ex4-11.png)
 
 ## Summary
 
