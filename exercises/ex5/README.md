@@ -6,7 +6,25 @@ In this exercise, we will explore an already existing event mesh of two brokers:
 
 After completing these steps you will have created a queue of the same name on your second broker.
 
+1. Click on Cluster Manager on the left
+  
+2. In the All Services screen click on the TechEd Las Vegas Tile (US West)
+  
+3. Click in Manage
+  
+4. Under Broker Manager Quick Setting click the Queues tile. A new window opens up.
+  
+5. Click the +Queue button on the top right
+  
+6. In the pop up enter the queue name: IN261-aemconnect** (replace ** with your number)
 
+HINT: ensure this is exactly the same name you have used in the other broker
+  
+7. Click Create
+  
+8. On the next screen click Apply
+  
+9. Check whether you can see your queue in the list  
 
 ## Exercise 5.2 Consume and explore events in Queue Consumer 
 
