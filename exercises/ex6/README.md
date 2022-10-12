@@ -2,13 +2,13 @@
 
 In this exercise, we will setup filtering to provide only filtered events and consume these from your event mesh
 
-## Exercise 6.1 Start a second Queue Consumer and connect against US West broker
-
-You can keep the QueueConsumer connected that you have used before. If you have disconnected, follow these steps to connect again:
-
-## Exercise 6.2 Set up Filtering
+## Exercise 6.1 Set up Filtering
 
 After completing these steps 
+
+## Exercise 6.2 Start a second Queue Consumer and connect against US West broker
+
+You can keep the QueueConsumer connected that you have used before. If you have disconnected, follow these steps to connect again:
 
 ## Exercise 6.3 Consume Filtered Events
 
