@@ -25,6 +25,8 @@ To download, click on Code and select Download ZIP
 
 ## Result of cloning or download and unzipping
 
+The result should look like this:
+
 ![Pic 2](/./images/IN261-ex0-2.png)
 
 You should be able to find the tools you will need later on in the folder teched2022-IN261-main/tools/AEM Samples/src/basic-samples
