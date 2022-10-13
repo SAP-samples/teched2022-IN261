@@ -22,15 +22,17 @@ Password: <PASSWORD>
 
 ![Pic 2](/./images/IN261-ex2-2.png)
 
-3. Select Queues. You will now see the list of already created queues.
+3. Select Queues. 
 
 ![Pic 3](/./images/IN261-ex2-3.png)
+
+You will now see the list of already created queues.
+
+![Pic 4](/./images/IN261-ex2-4.png)
 
 - You should see at least one queue here already that is the pre-created one for connecting the extension application.
 
 - Potentially there are already more that some people have already created. 
-
-![Pic 4](/./images/IN261-ex2-4.png)
 
 ## Exercise 2.2 - Create a queue and a queue subscription in SAP Event Mesh
 
