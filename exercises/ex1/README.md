@@ -94,7 +94,7 @@ You have now:
 
 - explored a SAP S/4HANA standard notification event in SAP API Business Hub
 - you have assigned an event to a channel
-- you have deleted this event again
+- you have deleted this event
 
 Continue to -> [Exercise 2 - Use SAP Event Mesh in a pre-configured scenario](../ex2/README.md)
 
