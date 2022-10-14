@@ -4,7 +4,7 @@ THIS IS AN OPTIONAL EXERCISE TO PROVIDE YOU WITH A REAL END-TO-END VIEW. IT PROV
 
 We will look for and at Business Partner events on the SAP API Business Hub and will see how to enable these events in SAP S/4HANA Cloud. 
 
-![Pic 1(/./images/IN261-ex1-1.png)
+![Pic 1](/./images/IN261-ex1-1.png)
 
 ## Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub (optional)
 
