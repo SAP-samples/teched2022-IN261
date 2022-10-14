@@ -54,6 +54,8 @@ For this more demanding scenario we will use SAP Integration Suite, advanced eve
 
 In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents. Exercises marked as (optional) can be skipped if wanted.
 
+Preparation
+
 - [Getting Started](exercises/ex0/)
 
 SAP S/4HANA (optional)
