@@ -43,19 +43,50 @@ HINT: the environment is pre-configured to expose events. We will use a shared c
 1. Log into SAP S/4HANA Cloud using the below link and your user an password.
 2. Click on the Enterprise Event Enablement Tile (under Enterprise Event Enablement)
 
-![Enterprise Event Enablement](/./images/IN261-ex1-2.png)
+![Enterprise Event Enablement](/./images/IN261-ex1-7.png)
 
 3. Click Go
-4. Select our example channel SAP_CP_XF_EXAMPLE by clicking on the arrow behind the name
-5. You should see the Business Partner events enabled in the Outbound Topics section
-6. Click on Create
-7. On the Outbound Topics page, expand the selection box for topic and check on the available events in the system by simply scrolling down
-8. Select an Outbound Topic
-9. Click Create
-10. You will see the topic assigned
-11. Mark the topic you have added using the checkbox and click Delete
-12. Confirm the deletion by clicking Delete
-13. Go back to Home
+
+![Go](/./images/IN261-ex1-8.png)
+
+5. Select our example channel SAP_CP_XF_EXAMPLE by clicking on the arrow behind the name
+
+![Pic 9](/./images/IN261-ex1-9.png)
+
+7. You should see the Business Partner events enabled in the Outbound Topics section
+
+![Pic 10](/./images/IN261-ex1-10.png)
+
+9. Click on Create
+
+![Pic 11](/./images/IN261-ex1-11.png)
+
+11. On the Outbound Topics page, expand the selection box for topic and check on the available events in the system by simply scrolling down
+
+![Pic 12](/./images/IN261-ex1-12.png)
+
+13. Select an Outbound Topic
+
+![Pic 13](/./images/IN261-ex1-13.png)
+
+15. Click Create
+
+![Pic 14](/./images/IN261-ex1-14.png)
+
+17. Click the Back Arrow
+
+![Pic 15](/./images/IN261-ex1-15.png)
+
+19. You will see the topic assigned
+20. Mark the topic you have added using the checkbox and click Delete
+
+![Pic 16](/./images/IN261-ex1-16.png)
+
+22. Confirm the deletion by clicking Delete
+
+![Pic 17](/./images/IN261-ex1-17.png)
+
+24. Go back to Home
 
 ## Summary
 
