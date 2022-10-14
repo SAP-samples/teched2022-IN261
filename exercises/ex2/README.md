@@ -40,20 +40,30 @@ After completing these steps you will have looked at the queue of your extension
 
 1. Click on Create Queue. The Create a New Queue pop up becomes visible.
 
-2. Enter IN261-test** into Queue Name (replace ** with your number)
+![Pic 5](/./images/IN261-ex2-5.png)  
+  
+2. Enter IN261-test-** into Queue Name (replace ** with your number)
 
+![Pic 6](/./images/IN261-ex2-6.png)    
+  
 3. Click Create
 
 4. Find the queue you just created in the list.
 
 5. In the overview table, behind your queue, click Actions
 
+![Pic 7](/./images/IN261-ex2-7.png)      
+  
 6. In the drop down select Queue Subscriptions. This opens up the Queue Subsciptions menu.
 
+![Pic 8](/./images/IN261-ex2-8.png)       
+  
 7. Copy the following into Topic: sap/S4HANAOD/1406/ce/sap/s4/beh/businesspartner/v1/BusinessPartner/Changed/v1	
 
 HINT: make sure you copied this exactly and there are no spaces etc 
 
+![Pic 9](/./images/IN261-ex2-9.png)      
+  
 8. Click Add
 
 9. You should see the topic added under Subscribed Topic Name
@@ -64,8 +74,12 @@ HINT: make sure you copied this exactly and there are no spaces etc
 
 Now you should see both topics under Subscribed Topic Name.
 
+![Pic 10](/./images/IN261-ex2-10.png)      
+  
 12. Click Close
 
+![Pic 11](/./images/IN261-ex2-11.png)        
+  
 ## Exercise 2.3 - Explore the Extension Application
 
 After completing these steps you will have gained a quick impression of an extension application on the SAP BTP.
