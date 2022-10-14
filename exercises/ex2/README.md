@@ -92,9 +92,15 @@ This will open the Home screen of our extension application.
 
 This opens the FioriElements app.
 
+![Pic 12](/./images/IN261-ex2-12.png)    
+
 3. Click on Go to see what customers are already in the app.
 
+![Pic 13](/./images/IN261-ex2-13.png)   
+
 If you want to you can click around some. Click for example on a customer and see what features are available.
+
+![Pic 14](/./images/IN261-ex2-14.png)   
 
 4. Go back to the customer processes page and keep it open.
 
@@ -113,15 +119,21 @@ Password: <PASSWORD>
 
 2. Click on Copy
 
+![Pic 15](/./images/IN261-ex2-15.png)   
+
 3. Update the Last name with your TechEd user (TechEd-IN261-** where you replace ** with your user number)
+
+![Pic 16](/./images/IN261-ex2-16.png)   
 
 4. Click Create
 
 Wait for the creation to finish and keep the page open / bookmark this page for later use
 
-You should have raised a BusinessPartner Create Event. Go to Event Mesh and check on your queue and then check that the Business Partner got added to the Extension Application.
+You should have raised a BusinessPartner Create Event. In the following steps, you will go to Event Mesh and check on your queue and then check that the Business Partner got added to the Extension Application.
   
 Note down / remember your BusinessPartnerId  
+
+![Pic 17](/./images/IN261-ex2-17.png)   
 
 5. Go to SAP Event Mesh
 
@@ -129,19 +141,33 @@ Note down / remember your BusinessPartnerId
   
 7. Find your queue. You should now see a number of messages in the queue. This is because everybody has probably already updated their Business Partner and the queue is listening to Business Partner changes.
   
+![Pic 18](/./images/IN261-ex2-18.png)     
+  
 8. Click on Test
+  
+![Pic 19](/./images/IN261-ex2-19.png)     
   
 9. In the Consume Messages section on the right, select your queue (IN261-test**) from the pull down menu.
   
+![Pic 20](/./images/IN261-ex2-20.png)     
+  
 10. Click on Consume Message
   
+![Pic 21](/./images/IN261-ex2-21.png)       
+  
 11. Consume the messages until you find your Business Partner Id in the data section   
+
+![Pic 22](/./images/IN261-ex2-22.png)       
 
 12. Go to the Extension Application
   
 13. Click Go
   
+![Pic 23](/./images/IN261-ex2-23.png)     
+  
 14. Find your Business Partner under Customer Name and confirm it has been added to the Extension Application. If you want to, you can play around with it some by changing the status etc.  
+  
+![Pic 24](/./images/IN261-ex2-24.png)     
   
 ## Summary
 
