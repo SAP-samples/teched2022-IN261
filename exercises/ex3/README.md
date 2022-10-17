@@ -12,15 +12,21 @@ After completing these steps you will have looked at the queue of your extension
 
 1. Go to your Message Client and select Queues
 
+![Pic 1](/./images/IN261-ex3-1.png)
+
 2. Click on Create Queue. The Create a New Queue pop up becomes visible.
 
-3. Enter IN261-aemconnect** into Queue Name (replace ** with your number)
+3. Enter IN261-aemconnect-** into Queue Name (replace ** with your number)
+
+![Pic 2](/./images/IN261-ex3-2.png)
 
 4. Click Create
 
 5. Find the queue you just created in the list.
 
 6. In the overview table, behind your queue, click Actions
+
+![Pic 3](/./images/IN261-ex3-3.png)
 
 7. In the drop down select Queue Subscriptions. This opens up the Queue Subsciptions menu.
 
@@ -30,15 +36,23 @@ HINT: make sure you copied this exactly and there are no spaces etc
 
 9. Click Add
 
+![Pic 4](/./images/IN261-ex3-4.png)
+
 10. You should see the topic added under Subscribed Topic Name
 
 11. Copy the following into Topic: sap/S4HANAOD/1406/ce/sap/s4/beh/businesspartner/v1/BusinessPartner/Created/v1	
+
+![Pic 5](/./images/IN261-ex3-5.png)
 
 12. Click Add
 
 Now you should see both topics under Subscribed Topic Name.
 
+![Pic 6](/./images/IN261-ex3-6.png)
+
 13. Click Close
+
+![Pic 7](/./images/IN261-ex3-7.png)
 
 You have no created a queue and a queue subscription that we will use for Advanced Event Mesh connectivity.
 
@@ -54,17 +68,30 @@ Password: <PASSWORD>
   
 2. Explore Advanced Event Mesh  
 
+![Pic 8](/./images/IN261-ex3-8.png)
+
+- check out the different areas in the Advanced Event Mesh cockpit like Mission Control, Event Portal and Event Insights
+- just have a quick glimpse here and there to understand the three different areas offered: Event Streaming, Event Management and Event Insights
+
 ## Exercise 3.3 - Create a queue in Advanced Event Mesh
 
 After completing these steps you will have created a queue in Advanced Event Mesh and will have collected the required data to create a webhook in SAP Event Mesh.
   
 1. Click on Cluster Manager on the left
   
+![Pic 9](/./images/IN261-ex3-9.png)  
+  
 2. In the All Services screen click on the TechEd Las Vegas Tile (Frankfurt)
+  
+![Pic 10](/./images/IN261-ex3-10.png)    
   
 3. Click in Manage
   
+![Pic 11](/./images/IN261-ex3-11.png)     
+  
 4. Under Broker Manager Quick Setting click the Queues tile. A new window opens up.
+  
+![Pic 12](/./images/IN261-ex3-12.png)      
   
 5. Click the +Queue button on the top right
   
