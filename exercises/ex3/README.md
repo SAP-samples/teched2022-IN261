@@ -109,19 +109,23 @@ After completing these steps you will have created a queue in Advanced Event Mes
   
 ![Pic 15](/./images/IN261-ex3-15.png)      
   
-9. Check whether you can see your queue in the list  
+9. Check whether you can find your queue in the list  
 
 ![Pic 16](/./images/IN261-ex3-16.png)     
 
 ## Exercise 3.4 - Create a webhook to send events to Advanced Event Mesh
 
-After completing these steps you will have created a webhook to send events from SAP Event Mesh to Advanced Event Mesh.
+Now you will create a webhook to send events from SAP Event Mesh to Advanced Event Mesh.
 
 1. In Advanced Event Mesh, go to the overview window again (HINT: remember that a second browser window got opened; go to the parent window)
   
 2. Click on Connect
   
+![Pic 17](/./images/IN261-ex3-17.png)     
+  
 3. Click on REST and expand the details
+  
+![Pic 18](/./images/IN261-ex3-18.png)      
   
 4. Keep this browser window open. You will have to copy data over into SAP Event Mesh.
   
@@ -129,9 +133,15 @@ After completing these steps you will have created a webhook to send events from
   
 6. Click on Webhooks
   
+![Pic 19](/./images/IN261-ex3-19.png)       
+  
 7. Click on Create Webhook. This opens a popoup.
   
-8. Into the Subscription Name field enter: IN261-aemconnect** (replace ** with your number)
+![Pic 20](/./images/IN261-ex3-20.png)     
+  
+8. Into the Subscription Name field enter: IN261-aemconnect-** (replace ** with your number)
+  
+![Pic 21](/./images/IN261-ex3-21.png)      
   
 9. Select your queue from the drop down in Queue Name
   
@@ -139,7 +149,7 @@ After completing these steps you will have created a webhook to send events from
   
 11. Go to Advanced Event Mesh and copy the Webhook URL. You can click on the copy icon behind Secured Web Messaging Host / Public Internet.
   
-12. Past this into SAP Event Mesh - Webhook URL
+12. Paste this into SAP Event Mesh - Webhook URL
   
 13. Change Authentication to Basic Authentication
   
@@ -156,6 +166,10 @@ After completing these steps you will have created a webhook to send events from
 19. Go to Event Mesh and paste the password into Password
   
 20. Click on create 
+  
+![Pic 22](/./images/IN261-ex3-22.png)    
+  
+21. Check that your webhook got created by finding it in the list.  
   
 ## Summary
 
