@@ -63,7 +63,9 @@ After completing these steps you will familiarized yourself with AEM.
 1. Log into Advanced Event Mesh
 
 Link: https://eu10.console.pubsub.em.services.cloud.sap/home?login=true
+
 User: TechEd-IN261-** (replace ** with your user number)
+
 Password: <PASSWORD>
   
 2. Explore Advanced Event Mesh  
@@ -95,13 +97,21 @@ After completing these steps you will have created a queue in Advanced Event Mes
   
 5. Click the +Queue button on the top right
   
-6. In the pop up enter the queue name: IN261-aemconnect** (replace ** with your number)
+![Pic 13](/./images/IN261-ex3-13.png)        
+  
+6. In the pop up enter the queue name: IN261-aemconnect-** (replace ** with your number)
   
 7. Click Create
   
+![Pic 14](/./images/IN261-ex3-14.png)      
+  
 8. On the next screen click Apply
   
+![Pic 15](/./images/IN261-ex3-15.png)      
+  
 9. Check whether you can see your queue in the list  
+
+![Pic 16](/./images/IN261-ex3-16.png)     
 
 ## Exercise 3.4 - Create a webhook to send events to Advanced Event Mesh
 
