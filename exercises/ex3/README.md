@@ -169,7 +169,9 @@ Now you will create a webhook to send events from SAP Event Mesh to Advanced Eve
   
 ![Pic 22](/./images/IN261-ex3-22.png)    
   
-21. Check that your webhook got created by finding it in the list.  
+21. Check that your webhook got created by finding it in the list. Make sure the webhook is active and the handshake exempted.  
+  
+![Pic 23](/./images/IN261-ex3-23.png)     
   
 ## Summary
 
