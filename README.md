@@ -89,7 +89,9 @@ SAP Integration Suite, advanced event mesh
 
     - [Exercise 4.1 - Start your Queue Consumer Application and connect to Advanced Event Mesh](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex4#exercise-41-start-your-queue-consumer-application-and-connect-to-advanced-event-mesh)
     - [Exercise 4.2 - Consume and explore events in Queue Consumer](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex4#exercise-42-consume-and-explore-events-in-queue-consumer)
-    
+   
+SAP Integration Suite, advanced event mesh      
+   
 - [Exercise 5 - Explore an event mesh spanning two continents in Advanced Event Mesh](exercises/ex5/)
 
     - [Exercise 5.1 - Create a Queue in your second broker](exercises/ex5#exercise-41-sub-exercise-1-description)
