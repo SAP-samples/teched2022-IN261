@@ -6,6 +6,8 @@ We will look for and at Business Partner events on the SAP API Business Hub and 
 
 ![Pic 1](/./images/IN261-ex1-1.png)
 
+#exercise-11-sub-exercise-1-description
+
 ## Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub (optional)
 
 You will see how easy it is to look up available events in the SAP API Business Hub. Overall, SAP API Business Hub provides you with information on standard APIs and events available for selected SAP backends.
