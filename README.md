@@ -62,7 +62,7 @@ SAP S/4HANA (optional)
 
 - [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)](exercises/ex1/)
 
-    - [Exercise 1.1 - Look up BusinessPartner events in SAP API Business Hub (optional)](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 1.1 - Look up BusinessPartner events in SAP API Business Hub (optional)](## Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub (optional))
     - [Exercise 1.2 - Explore events in SAP S/4HANA (optional)](exercises/ex1#exercise-11-sub-exercise-1-description)
    
 SAP Event Mesh   
