@@ -78,7 +78,7 @@ SAP Event Mesh and SAP Integration Suite, advanced event mesh
     
 - [Exercise 3 - Connect SAP Event Mesh to Advanced Event Mesh](exercises/ex3/)
 
-    - [Exercise 3.1 - Create a queue and a topic subscription](exercises/ex3#exercise-31-sub-exercise-1-description)
+    - [Exercise 3.1 - Create a queue and a topic subscription](/ex3#exercise-31---create-a-queue-and-a-topic-subscription)  
     - [Exercise 3.2 - Log into Advanced Event Mesh and explore it](exercises/ex3#exercise-32-sub-exercise-1-description)
     - [Exercise 3.3 - Create a queue in Advanced Event Mesh](exercises/ex3#exercise-33-sub-exercise-1-description)
     - [Exercise 3.4 - Create a webhook to send events to Advanced Event Mesh](exercises/ex1#exercise-34-sub-exercise-1-description)
