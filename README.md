@@ -29,7 +29,7 @@ Features touched, some just shortly, some in more detail, include:
 - SAP Integration Suite, advanced event mesh Cluster Manager 
 - SAP Integration Suite, advanced event mesh Mesh Manager 
 - SAP Integration Suite, advanced event mesh Event Insights 
-- SAP Integration Suite, advanced event mesh Eventand Event Management
+- SAP Integration Suite, advanced event mesh Event Designer and Event Management
 
 ## Scenario Setup
 
