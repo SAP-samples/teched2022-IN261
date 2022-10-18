@@ -62,17 +62,17 @@ SAP S/4HANA (optional)
 
 - [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)](exercises/ex1/)
 
-    - [Exercise 1.1 - Look up BusinessPartner events in SAP API Business Hub (optional)](## Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub (optional))
-    - [Exercise 1.2 - Explore events in SAP S/4HANA (optional)](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 1.1 - Look up BusinessPartner events in SAP API Business Hub (optional)]
+    - [Exercise 1.2 - Explore events in SAP S/4HANA (optional)]
    
 SAP Event Mesh   
    
 - [Exercise 2 - Use SAP Event Mesh in pre-configured scenario](exercises/ex2/)
 
-    - [Exercise 2.1 - Log into SAP Event Mesh and explore](exercises/ex1#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Create a queue and a topic subscription in SAP Event Mesh](exercises/ex1#exercise-22-sub-exercise-1-description)
-    - [Exercise 2.3 - Explore the Extension Application](exercises/ex1#exercise-23-sub-exercise-1-description)
-    - [Exercise 2.4 - Trigger an event and follow the flow all the way from SAP S/4HANA to the extension application](exercises/ex1#exercise-24-sub-exercise-1-description)
+    - [Exercise 2.1 - Log into SAP Event Mesh and explore]
+    - [Exercise 2.2 - Create a queue and a topic subscription in SAP Event Mesh]
+    - [Exercise 2.3 - Explore the Extension Application]
+    - [Exercise 2.4 - Trigger an event and follow the flow all the way from SAP S/4HANA to the extension application]
     
 SAP Event Mesh and SAP Integration Suite, advanced event mesh 
     
