@@ -62,36 +62,33 @@ SAP S/4HANA (optional)
 
 - [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)](exercises/ex1/)
 
-    - [Exercise 1.1 - Look up BusinessPartner events in SAP API Business Hub (optional)]
-    - [Exercise 1.2 - Explore events in SAP S/4HANA (optional)]
+    - [Exercise 1.1 - Look up BusinessPartner events in SAP API Business Hub (optional)](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex1#exercise-11---look-up-the-businesspartner-events-in-sap-api-business-hub-optional)
+    - [Exercise 1.2 - Explore events in SAP S/4HANA (optional)](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex1#exercise-12---explore-switching-events-on-in-sap-s4hana-optional)
    
 SAP Event Mesh   
    
 - [Exercise 2 - Use SAP Event Mesh in pre-configured scenario](exercises/ex2/)
 
-    - [Exercise 2.1 - Log into SAP Event Mesh and explore]
-    - [Exercise 2.2 - Create a queue and a topic subscription in SAP Event Mesh]
-    - [Exercise 2.3 - Explore the Extension Application]
-    - [Exercise 2.4 - Trigger an event and follow the flow all the way from SAP S/4HANA to the extension application]
+    - [Exercise 2.1 - Log into SAP Event Mesh and explore](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex2#exercise-21---log-into-sap-event-mesh-and-make-yourself-familiar-with-it)
+    - [Exercise 2.2 - Create a queue and a topic subscription in SAP Event Mesh](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex2#exercise-22---create-a-queue-and-a-queue-subscription-in-sap-event-mesh)
+    - [Exercise 2.3 - Explore the Extension Application](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex2#exercise-23---explore-the-extension-application)
+    - [Exercise 2.4 - Trigger an event and follow the flow all the way from SAP S/4HANA to the extension application](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex2#exercise-23---explore-the-extension-application)
     
 SAP Event Mesh and SAP Integration Suite, advanced event mesh 
     
 - [Exercise 3 - Connect SAP Event Mesh to Advanced Event Mesh](exercises/ex3/)
 
     - [Exercise 3.1 - Create a queue and a topic subscription](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex3#exercise-31---create-a-queue-and-a-topic-subscription)  
-
-
-
-    - [Exercise 3.2 - Log into Advanced Event Mesh and explore it](exercises/ex3#exercise-32-sub-exercise-1-description)
-    - [Exercise 3.3 - Create a queue in Advanced Event Mesh](exercises/ex3#exercise-33-sub-exercise-1-description)
-    - [Exercise 3.4 - Create a webhook to send events to Advanced Event Mesh](exercises/ex1#exercise-34-sub-exercise-1-description)
+    - [Exercise 3.2 - Log into Advanced Event Mesh and explore it](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex3#exercise-32---log-into-advanced-event-mesh-and-explore-it)
+    - [Exercise 3.3 - Create a queue in Advanced Event Mesh](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex3#exercise-33---create-a-queue-in-advanced-event-mesh)
+    - [Exercise 3.4 - Create a webhook to send events to Advanced Event Mesh](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex3#exercise-34---create-a-webhook-to-send-events-to-advanced-event-mesh)
     
 SAP Integration Suite, advanced event mesh    
     
 - [Exercise 4 - Consume Event in Advanced Event Mesh](exercises/ex4/)
 
-    - [Exercise 4.1 - Start your Queue Consumer Application and connect to Advanced Event Mesh](exercises/ex4#exercise-41-sub-exercise-1-description)
-    - [Exercise 4.2 - Consume and explore events in Queue Consumer](exercises/ex4#exercise-42-sub-exercise-1-description)
+    - [Exercise 4.1 - Start your Queue Consumer Application and connect to Advanced Event Mesh](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex4#exercise-41-start-your-queue-consumer-application-and-connect-to-advanced-event-mesh)
+    - [Exercise 4.2 - Consume and explore events in Queue Consumer](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex4#exercise-42-consume-and-explore-events-in-queue-consumer)
     
 - [Exercise 5 - Explore an event mesh spanning two continents in Advanced Event Mesh](exercises/ex5/)
 
