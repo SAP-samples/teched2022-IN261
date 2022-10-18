@@ -78,7 +78,7 @@ SAP Event Mesh and SAP Integration Suite, advanced event mesh
     
 - [Exercise 3 - Connect SAP Event Mesh to Advanced Event Mesh](exercises/ex3/)
 
-    - [Exercise 3.1 - Create a queue and a topic subscription](/exercises/ex3#exercise-31---create-a-queue-and-a-topic-subscription)  
+    - [Exercise 3.1 - Create a queue and a topic subscription](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex3#exercise-31---create-a-queue-and-a-topic-subscription)  
 
 
 
