@@ -62,27 +62,53 @@ After completing these steps you will have consumed events using the Queue Consu
 
 1. Go to your Queue Consumer if it is still open and click on Disconnect - in case that it is not open any more, restart it
 
+2. Make sure that it listens to the same queue you have just created in the previous step: IN261-aemconnect-** (replace ** with your number) 
+
+![Pic 12](/./images/IN261-ex5-12.png)   
+
+If this is not the case, you have to adjust it in your QueueConsumer.html
+
+![Pic 13](/./images/IN261-ex5-13.png)   
+
 3. Go to Advanced Event Mesh
 
 4. Click on Cluster Manager
 
+![Pic 14](/./images/IN261-ex5-14.png)   
+
 5. Click on the tile for TechEd Las Vegas (West US) - ensure this is the second broker, not the one that you just disconnected from
+
+![Pic 15](/./images/IN261-ex5-15.png)   
 
 6. Click on Connect
 
+![Pic 16](/./images/IN261-ex5-16.png)   
+
 7. Expand Solace Web Messaging (ensure this - REST as before will not work)
+
+![Pic 17](/./images/IN261-ex5-17.png)   
 
 8. Copy Username, Password, Message VPN and Secured Web Messaging Host into the respective fields of your Queue Consumer
 
+![Pic 18](/./images/IN261-ex5-18.png)   
+
 9. In the Queue Consumer, click Connect. You should get a success message indicating that the connection has worked.
 
-1. In order to consume messages from your queue, click on *Consume Messages*. If you would like to stop consuming later on, click *Stop Consuming*.
+![Pic 19](/./images/IN261-ex5-19.png)   
 
-2. Go back to the SAP S/4HANA system and update your BusinessPartner. If everything works, you should now receive the BusinessPartner.changed event in your Queue consumer on the second broker.
+10. In order to consume messages from your queue, click on *Consume Messages*. If you would like to stop consuming later on, click *Stop Consuming*.
+
+11. Go back to the SAP S/4HANA system and update your BusinessPartner. 
+
+12. If everything works, you should now receive the BusinessPartner.changed event in your Queue consumer on the second broker.
+
+![Pic 20](/./images/IN261-ex5-20.png)   
 
 ## Summary
 
-You've now seen what a mesh looks like in Advanced Event Mesh. You consumed the events from a queue on the second broker in the mesh - the one on the US West Coast. The forwarding of events has happened automatically.
+You've now seen what a mesh looks like in Advanced Event Mesh. You consumed the events from a queue on the second broker in the mesh - the one on the US West Coast. The forwarding of events has happened automatically based on the topic that the queue is subscribed to.
+
+You can easily extned this to the third broker by following the same procedure described above ...
 
 Continue to - [Exercise 6 - Start HTML Queue Consumer and consume filtered events](../ex6/README.md)
 
