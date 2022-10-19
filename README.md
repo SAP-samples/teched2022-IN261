@@ -94,13 +94,13 @@ SAP Integration Suite, advanced event mesh
    
 - [Exercise 5 - Explore an event mesh spanning three continents in Advanced Event Mesh](exercises/ex5/)
 
-    - [Exercise 5.1 - Create a Queue in your second broker](exercises/ex5#exercise-41-sub-exercise-1-description)
-    - [Exercise 5.2 - Consume and explore events in Queue Consumer](exercises/ex5#exercise-42-sub-exercise-1-description)
+    - [Exercise 5.1 - Create a Queue in your second broker](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex5#exercise-51-create-a-queue-in-your-second-broker)
+    - [Exercise 5.2 - Consume and explore events in Queue Consumer](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex5#exercise-52-consume-and-explore-events-in-queue-consumer)
     
 - [Exercise 6 - Start HTML Queue Consumer and consume filtered events](exercises/ex6/)  
 
-    - [Exercise 6.1 - Set up Filtering](exercises/ex6#exercise-61-sub-exercise-1-description) 
-    - [Exercise 6.2 - Consume Filtered Events](exercises/ex6#exercise-63-sub-exercise-1-description) 
+    - [Exercise 6.1 - Set up Filtering](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex5#exercise-52-consume-and-explore-events-in-queue-consumer) 
+    - [Exercise 6.2 - Consume Filtered Events](https://github.com/SAP-samples/teched2022-IN261/blob/main/exercises/ex6/README.md#exercise-62-consume-filtered-events) 
    
 SAP Integration Suite, advanced event mesh (optional)       
    
