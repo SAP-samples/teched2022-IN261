@@ -78,6 +78,6 @@ After completing these steps you will have consumed events using the Queue Consu
 
 You have now connected your queue consumer to your queue in Advanced Event Mesh and have consumed your first events
 
-Continue to - [Exercise 5 - Explore a mesh spanning two continents in AEM](../ex5/README.md)
+Continue to - [Exercise 5 - Explore a mesh spanning three continents in AEM](../ex5/README.md)
 
 
