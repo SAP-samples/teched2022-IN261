@@ -193,11 +193,9 @@ This will post the event to the topic IN261-aemconnect-topic-** . Make sure this
   
 20. Click on create 
   
-![Pic 26](/./images/IN261-ex3-26.png)    
-  
 21. Check that your webhook got created by finding it in the list. Make sure the webhook is active and the handshake exempted.  
   
-![Pic 27](/./images/IN261-ex3-27.png)     
+![Pic 26](/./images/IN261-ex3-26.png)    
   
 ## Summary
 
