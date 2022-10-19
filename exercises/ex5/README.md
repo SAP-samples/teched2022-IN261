@@ -7,24 +7,56 @@ In this exercise, we will explore an already existing event mesh of three broker
 After completing these steps you will have created a queue on your second broker.
 
 1. Click on Cluster Manager on the left
+
+![Pic 1](/./images/IN261-ex5-1.png)
   
 2. In the All Services screen click on the TechEd Las Vegas Tile (US West)
   
 3. Click in Manage
   
+![Pic 2](/./images/IN261-ex5-2.png)  
+  
 4. Under Broker Manager Quick Setting click the Queues tile. A new window opens up.
+  
+![Pic 3](/./images/IN261-ex5-3.png)    
   
 5. Click the +Queue button on the top right
   
-6. In the pop up enter the queue name: IN261-aemconnect** (replace ** with your number)
-
-HINT: ensure this is exactly the same name you have used in the other broker
+![Pic 4](/./images/IN261-ex5-4.png)      
   
+6. In the pop up enter the queue name: IN261-aemconnect-** (replace ** with your number)
+
+HINT: you might pick a slightly different name indicating that you are on a different broker, like IN261-aemconnect-**-US. This would require you to adjust your queue consumer though. So if you want to keep it simple, stick to the name you used in the other broker.
+    
 7. Click Create
   
+![Pic 5](/./images/IN261-ex5-5.png)   
+
 8. On the next screen click Apply
   
+![Pic 6](/./images/IN261-ex5-6.png)     
+  
 9. Check whether you can see your queue in the list  
+
+![Pic 7](/./images/IN261-ex5-7.png)     
+
+10. Click on your queue in the list
+
+11. Click on Subscriptions
+
+![Pic 8](/./images/IN261-ex5-8.png)     
+
+12. Click on the button +Subscription
+
+![Pic 9](/./images/IN261-ex5-9.png)   
+
+13. Enter the topic you had created in SAP Event Mesh when creating the webhook. This is most likely: IN261-aemconnect-topic-** (replace ** with your number)
+
+![Pic 10](/./images/IN261-ex5-10.png)   
+
+14. Click Create
+
+![Pic 11](/./images/IN261-ex5-11.png)   
 
 ## Exercise 5.2 Consume and explore events in Queue Consumer 
 
