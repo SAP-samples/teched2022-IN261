@@ -25,8 +25,6 @@ After completing these steps you will have created a queue on your second broker
 ![Pic 4](/./images/IN261-ex5-4.png)      
   
 6. In the pop up enter the queue name: IN261-aemconnect-** (replace ** with your number)
-
-HINT: you might pick a slightly different name indicating that you are on a different broker, like IN261-aemconnect-**-US. This would require you to adjust your queue consumer though. So if you want to keep it simple, stick to the name you used in the other broker.
     
 7. Click Create
   
@@ -60,11 +58,9 @@ HINT: you might pick a slightly different name indicating that you are on a diff
 
 ## Exercise 5.2 Consume and explore events in Queue Consumer 
 
-After completing these steps you will have consumed events using the Queue Consumer from the second broker in the Event Mesh, meaning that the events got forwarded in your Mesh
+After completing these steps you will have consumed events using the Queue Consumer from the second broker in the Event Mesh, meaning that the events got forwarded in your Mesh and have ended up in your queue based on the queue subscription.
 
-1. Go to your Queue Consumer
-
-2. Click Disconnect
+1. Go to your Queue Consumer if it is still open and click on Disconnect - in case that it is not open any more, restart it
 
 3. Go to Advanced Event Mesh
 
