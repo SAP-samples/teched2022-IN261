@@ -92,7 +92,7 @@ SAP Integration Suite, advanced event mesh
    
 SAP Integration Suite, advanced event mesh      
    
-- [Exercise 5 - Explore an event mesh spanning two continents in Advanced Event Mesh](exercises/ex5/)
+- [Exercise 5 - Explore an event mesh spanning three continents in Advanced Event Mesh](exercises/ex5/)
 
     - [Exercise 5.1 - Create a Queue in your second broker](exercises/ex5#exercise-41-sub-exercise-1-description)
     - [Exercise 5.2 - Consume and explore events in Queue Consumer](exercises/ex5#exercise-42-sub-exercise-1-description)
