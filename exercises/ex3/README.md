@@ -111,7 +111,25 @@ After completing these steps you will have created a queue in Advanced Event Mes
   
 9. Check whether you can find your queue in the list  
 
-![Pic 16](/./images/IN261-ex3-16.png)     
+![Pic 16](/./images/IN261-ex3-16.png)   
+
+10. Click on your queue
+
+11. Click on Subscriptions
+
+![Pic 17](/./images/IN261-ex3-17.png)  
+
+12. Click on +Subscription
+
+13. Enter your topic into the field. Use IN261-aemconnect-topic-** (replace ** with your number)
+
+![Pic 18](/./images/IN261-ex3-18.png)  
+
+14. Click on Create
+
+15. Check on whether your queue subscription got created
+
+![Pic 19](/./images/IN261-ex3-19.png)  
 
 ## Exercise 3.4 - Create a webhook to send events to Advanced Event Mesh
 
@@ -121,11 +139,11 @@ Now you will create a webhook to send events from SAP Event Mesh to Advanced Eve
   
 2. Click on Connect
   
-![Pic 17](/./images/IN261-ex3-17.png)     
+![Pic 20](/./images/IN261-ex3-20.png)     
   
 3. Click on REST and expand the details
   
-![Pic 18](/./images/IN261-ex3-18.png)      
+![Pic 21](/./images/IN261-ex3-21.png)      
   
 4. Keep this browser window open. You will have to copy data over into SAP Event Mesh.
   
@@ -133,15 +151,15 @@ Now you will create a webhook to send events from SAP Event Mesh to Advanced Eve
   
 6. Click on Webhooks
   
-![Pic 19](/./images/IN261-ex3-19.png)       
+![Pic 22](/./images/IN261-ex3-22.png)       
   
 7. Click on Create Webhook. This opens a popoup.
   
-![Pic 20](/./images/IN261-ex3-20.png)     
+![Pic 23](/./images/IN261-ex3-23.png)     
   
 8. Into the Subscription Name field enter: IN261-aemconnect-** (replace ** with your number)
   
-![Pic 21](/./images/IN261-ex3-21.png)      
+![Pic 24](/./images/IN261-ex3-24.png)      
   
 9. Select your queue from the drop down in Queue Name
   
@@ -167,11 +185,11 @@ Now you will create a webhook to send events from SAP Event Mesh to Advanced Eve
   
 20. Click on create 
   
-![Pic 22](/./images/IN261-ex3-22.png)    
+![Pic 25](/./images/IN261-ex3-25.png)    
   
 21. Check that your webhook got created by finding it in the list. Make sure the webhook is active and the handshake exempted.  
   
-![Pic 23](/./images/IN261-ex3-23.png)     
+![Pic 26](/./images/IN261-ex3-26.png)     
   
 ## Summary
 
