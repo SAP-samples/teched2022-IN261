@@ -89,25 +89,18 @@ SAP Integration Suite, advanced event mesh
 
     - [Exercise 4.1 - Start your Queue Consumer Application and connect to Advanced Event Mesh](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex4#exercise-41-start-your-queue-consumer-application-and-connect-to-advanced-event-mesh)
     - [Exercise 4.2 - Consume and explore events in Queue Consumer](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex4#exercise-42-consume-and-explore-events-in-queue-consumer)
-   
-SAP Integration Suite, advanced event mesh      
-   
+    
 - [Exercise 5 - Explore an event mesh spanning three continents in Advanced Event Mesh](exercises/ex5/)
 
     - [Exercise 5.1 - Create a Queue in your second broker](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex5#exercise-51-create-a-queue-in-your-second-broker)
     - [Exercise 5.2 - Consume and explore events in Queue Consumer](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex5#exercise-52-consume-and-explore-events-in-queue-consumer)
     
-- [Exercise 6 - Start HTML Queue Consumer and consume filtered events](exercises/ex6/)  
-
-    - [Exercise 6.1 - Set up Filtering](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex5#exercise-52-consume-and-explore-events-in-queue-consumer) 
-    - [Exercise 6.2 - Consume Filtered Events](https://github.com/SAP-samples/teched2022-IN261/blob/main/exercises/ex6/README.md#exercise-62-consume-filtered-events) 
-   
 SAP Integration Suite, advanced event mesh (optional)       
    
-- [Exercise 7 - Play around with Advanced Event Mesh (Optional)](exercises/ex7/)  
+- [Exercise 6 - Play around with Advanced Event Mesh (Optional)](exercises/ex7/)  
 
-    - [Exercise 7.1 - Explore Insights](exercises/ex7#exercise-71-sub-exercise-1-description)
-    - [Exercise 7.2 - Event Management](exercises/ex6#exercise-72-sub-exercise-1-description) 
+    - [Exercise 6.1 - Explore Insights](exercises/ex6#exercise-61-sub-exercise-1-description)
+    - [Exercise 6.2 - Event Management](exercises/ex6#exercise-62-sub-exercise-1-description) 
 
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
