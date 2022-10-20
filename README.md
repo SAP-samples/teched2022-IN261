@@ -97,7 +97,7 @@ SAP Integration Suite, advanced event mesh
     
 SAP Integration Suite, advanced event mesh (optional)       
    
-- [Exercise 6 - Play around with Advanced Event Mesh (Optional)](exercises/ex7/)  
+- [Exercise 6 - Play around with Advanced Event Mesh (Optional)](exercises/ex6/)  
 
     - [Exercise 6.1 - Explore Insights](exercises/ex6#exercise-61-sub-exercise-1-description)
     - [Exercise 6.2 - Event Management](exercises/ex6#exercise-62-sub-exercise-1-description) 
