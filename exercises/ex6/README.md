@@ -1,6 +1,6 @@
 # Exercise 6 - Play Around with Advanced Event Mesh (optional)
 
-In this exercise, you will decide yourself what you would like to check on. Find below a number proposals of what you could do with Advanced Event Mesh
+In this exercise, you will decide yourself what you would like to check on. Find below a number proposals of what you could do with Advanced Event Mesh. 
 
 ## Exercise 6.1 Explore Insights
 
