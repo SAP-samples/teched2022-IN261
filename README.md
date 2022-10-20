@@ -99,8 +99,8 @@ SAP Integration Suite, advanced event mesh (optional)
    
 - [Exercise 6 - Play around with Advanced Event Mesh (Optional)](exercises/ex6/)  
 
-    - [Exercise 6.1 - Explore Insights](exercises/ex6#exercise-61-sub-exercise-1-description)
-    - [Exercise 6.2 - Event Management](exercises/ex6#exercise-62-sub-exercise-1-description) 
+    - [Exercise 6.1 - Explore Insights](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex6#exercise-61-explore-insights)
+    - [Exercise 6.2 - Event Management](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex6#exercise-61-event-management) 
 
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
