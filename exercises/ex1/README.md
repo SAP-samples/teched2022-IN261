@@ -60,7 +60,7 @@ LINK TO BE ADDED
 
 ![Pic 10](/./images/IN261-ex1-10.png)
 
-6. Click on Create
+6. Click on Create (in the Outbound Topics section - make sure you pick the right button)
 
 ![Pic 11](/./images/IN261-ex1-11.png)
 
