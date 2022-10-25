@@ -41,7 +41,10 @@ Now we will look at how to switch events on in SAP S/4HANA.
 HINT: the environment is pre-configured to expose events. We will use a shared channel to explore this feature.
 
 1. Log into SAP S/4HANA Cloud using the below link and your user an password.
-2. Click on the Enterprise Event Enablement Tile (under Enterprise Event Enablement)
+
+LINK TO BE ADDED
+
+3. Click on the Enterprise Event Enablement Tile (under Enterprise Event Enablement)
 
 ![Enterprise Event Enablement](/./images/IN261-ex1-7.png)
 
