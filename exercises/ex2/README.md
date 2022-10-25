@@ -111,7 +111,7 @@ If you want to you can click around some. Click for example on a customer and se
 
 ![Pic 14](/./images/IN261-ex2-14.png)   
 
-4. Go back to the customer processes page and keep it open.
+4. Go back to the customer processes page of the extension application and keep it open for later use.
 
 This is where you will see additional customers added in real time after clicking the Go button later on.
 
