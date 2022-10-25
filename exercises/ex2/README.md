@@ -152,7 +152,7 @@ Note down / remember your BusinessPartnerId
 
 6. In case you are still in Event Mesh, click Refresh. If not, go to the Queues list.
   
-7. Find your queue. You should now see a number of messages in the queue. This is because everybody has probably already updated their Business Partner and the queue is listening to Business Partner changes.
+7. Find your queue. You should now see a number of messages in the queue. This is because everybody has probably already updated their Business Partner and the queue is listening to all Business Partner changes.
   
 ![Pic 18](/./images/IN261-ex2-18.png)     
   
