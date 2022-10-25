@@ -1,7 +1,7 @@
 # Exercise 2 - Play around with SAP Event Mesh in a pre-configured scenario
 
 
-Now we will explore an event-driven end-to-end architecture in a pre-configured scenario. First, we will log into SAP Event Mesh and look at our queue and the respective queue subscription. In a next step we will create a test queue and another queue subscription for this queue. Then, we will open our shared extension application. 
+Now we will explore an event-driven end-to-end architecture in a pre-configured scenario. First, we will log into SAP Event Mesh and look at our queue and the respective queue subscription. In a next step we will create a queue and another queue subscription for this queue. Then, we will open our shared extension application. 
 
 ![Pre-configured scenario](/./images/IN261-ex2-1.png)
 
