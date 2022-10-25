@@ -41,7 +41,7 @@ The basic-samples folder contains HTML/JS applications to consume and send event
 
 ## Participant Number
 
-When you run through the exercise steps, you need to ensure that you use your participant number that runs from 1-60.
+When you run through the exercise steps, you need to ensure that you use your participant number that runs from 1 - 60.
 
 Ensure you know the right number.
 
