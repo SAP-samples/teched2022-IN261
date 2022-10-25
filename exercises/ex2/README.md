@@ -87,6 +87,8 @@ Now you should see both topics under Subscribed Topic Name.
 
 ![Pic 11](/./images/IN261-ex2-11.png)        
   
+You have now created two queue subscriptions for BusinessPartner.Changed and BusinessPartner.Created events.  
+   
 ## Exercise 2.3 - Explore the Extension Application
 
 After completing these steps you will have gained a quick impression of an extension application on the SAP BTP.
