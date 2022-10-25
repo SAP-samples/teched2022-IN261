@@ -15,6 +15,8 @@ git clone https://github.com/SAP-samples/teched2022-IN261
 cd teched2022-IN261-main/tools/AEM Samples/src/basic-samples
 ```
 
+You will have to enter your user and password for GitHub.
+
 ### Option 2 - Download and unzip
 
 Go to the [main](https://github.com/SAP-samples/teched2022-IN261/tree/main) folder. Clone or download the AEM Samples.
