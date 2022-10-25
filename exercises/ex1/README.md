@@ -28,11 +28,11 @@ You will see how easy it is to look up available events in the SAP API Business 
 ![Pic 4](/./images/IN261-ex1-5.png)
 
 10. Click on View Event References
-11. Now you can select your event on the left (Changed, Created) or click into the green box to expand the event description. You will see the Request body with example values.
+11. Now you can select your operations on the left (Changed, Created) or drill deeper into header and payload. 
 
 ![Pic 4](/./images/IN261-ex1-6.png)
 
-8. Click on Schema to see the Schema
+8. Check out the exmaples for *Payload* and *Headers*
 
 ## Exercise 1.2 - Explore switching events on in SAP S/4HANA (optional)
 
