@@ -6,7 +6,7 @@
 
 Build an end-to-end integration scenario and gain hands-on experience with SAP's event brokers, namely the SAP Event Mesh capability and SAP Integration Suite, advanced event mesh.
 
-Learn how you can improve your situational awareness by having your SAP backends, namely SAP S/4HANA and SAP ECC, act as a real-time teamplayer.
+Learn how you can improve your situational awareness by having your SAP backends, namely SAP S/4HANA Cloud, act as a real-time teamplayer.
 
 ## Overview
 
@@ -33,17 +33,17 @@ Features touched, some just shortly, some in more detail, include:
 
 ## Scenario Setup
 
-As a call center employee your job is to follow up on newly created customers and customers for which information has been updated. You would like to do this for all customers in selected focus regions - like the United States for example. As a call center employee, you have no access to the SAP S/4HANA system in which the business partners are maintained, would still need to be able to work on real time data. The solution to this is a Fiori Elements based extension application on the SAP Business Technology Platform, that is, based on SAP S/4HANA business events, informed on business partner events and updated in real time.
+As a call center employee your job is to follow up on newly created customers and customers for which information has been updated. You would like to do this for all customers in selected focus regions - like the United States for example. As a call center employee, you have no access to the SAP S/4HANA system in which the business partners are maintained, would still need to be able to work on real time data. The solution to this is a Fiori Elements based extension application on the SAP Business Technology Platform, that is, based on SAP S/4HANA Cloud business events, informed on business partner events and updated in real time.
 
 ![Pic 2](/./images/IN261-2.png)
 
-The scenario sounds familiar? This is a popular SAP Discovery Center mission that we will use as a basis to look into SAP Event Mesh and SAP S/4HANA notification events. The original mission can be found in the [Discovery Center](https://discovery-center.cloud.sap/missiondetail/3156/3192/) . It holds a lot more detail and steps include development and deployment.
+The scenario sounds familiar? This is a popular SAP Discovery Center mission that we will use as a basis to look into SAP Event Mesh and SAP S/4HANA notification events. The original mission can be found in the [Discovery Center](https://discovery-center.cloud.sap/missiondetail/3156/3192/). It holds a lot more detail and steps include development and deployment.
 
-The mission has been very successful, so has been the business case. Therefore the call center has decided to expand on a global level and open a second call center in a different part of the world - to work on customers in specific focus regions. Instead of a single event broker, in order to handle the global setup and the higher load, we would use a mesh of event brokers - an event mesh - and dynamic message routing and filtering. 
+The mission has been very successful, so has been the business case. Therefore the call center has decided to expand on a global level and open a second call center in a different part of the world - to work on customers in the specific focus regions. Instead of a single event broker, in order to handle the global setup and the higher load, we would use a mesh of event brokers - an event mesh - and dynamic message routing. 
 
 ![Pic 3](/./images/IN261-3.png)
 
-For this more demanding scenario we will use SAP Integration Suite, advanced event mesh and we will build a mesh of two event brokers. As an event consumer we will use a simple HTML/JS based event consumer that will allow for further exploration.
+For this more demanding scenario we will use SAP Integration Suite, advanced event mesh and we will build a mesh of three event brokers. As an event consumer we will use a simple HTML/JS based event consumer that will allow for further exploration.
 
 ## Requirements
 
