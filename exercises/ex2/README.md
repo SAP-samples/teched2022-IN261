@@ -140,7 +140,9 @@ Password: <PASSWORD>
 
 Wait for the creation to finish and keep the page open / bookmark this page for later use
 
-You should have raised a BusinessPartner Create Event. In the following steps, you will go to Event Mesh and check on your queue and then check that the Business Partner got added to the Extension Application.
+You should have raised a BusinessPartner.Created Event. 
+  
+In the following steps, you will go to SAP Event Mesh and check on your queue and then check that the Business Partner got added to the Extension Application.
   
 Note down / remember your BusinessPartnerId  
 
