@@ -66,6 +66,8 @@ LINK TO BE ADDED
 
 7. On the Outbound Topics page, expand the selection box for topic and check on the available events in the system by simply scrolling down
 
+HINT: you can increase the size to the Topic column for better readability
+
 ![Pic 12](/./images/IN261-ex1-12.png)
 
 8. Select an Outbound Topic
