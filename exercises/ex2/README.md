@@ -123,6 +123,8 @@ After completing these steps you will have triggered an event in SAP S/$HANA by 
 
 Link: https://my304263.s4hana.ondemand.com/ui#BusinessPartner-manage&/C_BusinessPartner(BusinessPartner='1000746',DraftUUID=guid'00000000-0000-0000-0000-000000000000',IsActiveEntity=true)/?sap-iapp-state--history=TASFB1VS4H9SGATPI3LCD98WALG3XL069FF6NMDG1
 
+Log in with the data below:  
+  
 User: TechEd-IN261-** where you replace ** with your user number
 Password: <PASSWORD>
 
