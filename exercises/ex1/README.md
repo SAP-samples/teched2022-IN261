@@ -52,7 +52,7 @@ LINK TO BE ADDED
 
 ![Go](/./images/IN261-ex1-8.png)
 
-4. Select our example channel SAP_CP_XF_EXAMPLE by clicking on the arrow behind the name
+4. Select our example channel SAP_CP_XF_261 by clicking on the arrow behind the name
 
 ![Pic 9](/./images/IN261-ex1-9.png)
 
