@@ -22,7 +22,7 @@ Link: https://in261-s3nsxp9r.enterprise-messaging.cfapps.eu10.hana.ondemand.com/
 User: IN261-*** where you replace *** with your user number
 Password: <PASSWORD>
 
-2. You will see the Message Clients. Click on EMGeo.
+2. You will see the Message Clients. Click on IN261_Consumer.
 
 ![Pic 2](/./images/IN261-ex2-2.png)
 
