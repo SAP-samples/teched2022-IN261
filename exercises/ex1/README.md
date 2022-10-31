@@ -40,7 +40,7 @@ Now we will look at how to switch events on in SAP S/4HANA.
 
 HINT: the environment is pre-configured to expose events. We will use a shared channel to explore this feature.
 
-1. Log into SAP S/4HANA Cloud using the below link and your user an password.
+1. Log into SAP S/4HANA Cloud using the below link and your user and password.
 
 https://my401666.s4hana.cloud.sap/ui#Shell-home 
 
