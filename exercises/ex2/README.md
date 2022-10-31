@@ -47,7 +47,7 @@ After completing these steps you will have looked at the queue of your extension
 
 ![Pic 5](/./images/IN261-ex2-5.png)  
   
-2. Enter IN261-test-** into Queue Name (replace ** with your number)
+2. Enter IN261-test-*** into Queue Name (replace *** with your number)
 
 ![Pic 6](/./images/IN261-ex2-6.png)    
   
