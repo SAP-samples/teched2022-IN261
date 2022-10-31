@@ -1,16 +1,13 @@
 # Exercise 2 - Play around with SAP Event Mesh in a pre-configured scenario
 
 
-Now we will explore an event-driven end-to-end architecture in a pre-configured scenario. First, we will log into SAP Event Mesh and make ourselves familar with it. In a next step we will create a queue and another queue subscription for this queue. Then, we will open our shared extension application and trigger an event. 
+Now we will explore an event-driven end-to-end architecture in a pre-configured scenario. First, we will log into SAP Event Mesh and make ourselves familar with it. In a next step we will create a queue and another queue subscription for this queue. Then, we will open our shared extension application. 
 
 ![Pre-configured scenario](/./images/IN261-ex2-1.png)
 
 In SAP S/4HANA we will update our business partner and as a result trigger an event. 
 
-We can now see how this event: 
-
-- is added to our queue and 
-- then almost immediately disappears from our queue
+We can now see how this event is added to our queue. 
 
 Since the extension application does not consume from our test queue, we can consume the event and look at it. Next, we can see that the customer/business partner has been added to the extension application and that additional data has been collected using an API call to the backend.
 
@@ -20,9 +17,9 @@ Now we will log into SAP Event Mesh and explored its main features.
 
 1. Click on the link and enter your user and password:
 
-Link: https://georel.enterprise-messaging.cfapps.eu10.hana.ondemand.com/cockpit/#/home/message-clients
+Link: https://in261-s3nsxp9r.enterprise-messaging.cfapps.eu10.hana.ondemand.com/cockpit/#/home/message-clients
 
-User: TechEd-IN261-** where you replace ** with your user number
+User: IN261-*** where you replace *** with your user number
 Password: <PASSWORD>
 
 2. You will see the Message Clients. Click on EMGeo.
