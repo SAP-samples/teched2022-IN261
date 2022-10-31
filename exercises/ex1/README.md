@@ -56,6 +56,8 @@ LINK TO BE ADDED
 
 ![Pic 9](/./images/IN261-ex1-9.png)
 
+HINT: our channel is not active. This means that unless we activate the channel, no events are raised.
+
 5. You should see the Business Partner events enabled in the Outbound Topics section
 
 ![Pic 10](/./images/IN261-ex1-10.png)
