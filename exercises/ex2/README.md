@@ -123,7 +123,7 @@ Link: https://my304263.s4hana.ondemand.com/ui#BusinessPartner-manage&/C_Business
 
 Log in with the data below:  
   
-User: TechEd-IN261-** where you replace ** with your user number
+User: IN261-*** where you replace *** with your user number
 Password: <PASSWORD>
 
 2. Click on Copy
