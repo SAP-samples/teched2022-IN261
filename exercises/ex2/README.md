@@ -63,7 +63,7 @@ After completing these steps you will have looked at the queue of your extension
 
 ![Pic 8](/./images/IN261-ex2-8.png)       
   
-7. Copy the following into Topic: sap/S4HANAOD/S4HC/ce/sap/s4/beh/businesspartner/v1/BusinessPartner/Changed/v1
+7. Copy the following into Topic: sap/S4HANAOD/S4HC/ce/sap/s4/beh/businesspartner/v1/BusinessPartner/Created/v1
 
 HINT: make sure you copied this exactly and there are no spaces etc 
 
@@ -73,7 +73,7 @@ HINT: make sure you copied this exactly and there are no spaces etc
 
 9. You should see the topic added under Subscribed Topic Name
 
-10. Copy the following itno Topic: sap/S4HANAOD/1406/ce/sap/s4/beh/businesspartner/v1/BusinessPartner/Created/v1	
+10. Copy the following into Topic: sap/S4HANAOD/1406/ce/sap/s4/beh/businesspartner/v1/BusinessPartner/Changed/v1	
 
 11. Click Add
 
