@@ -8,7 +8,7 @@ There are two options to get access to the tools needed later.
 
 ### Option 1 - Clone the GitHub repository
 
-To check out the project, clone this GitHub repository by opening a terminal an typing:
+To check out the project, clone this GitHub repository by opening a terminal and typing:
 
 ```
 git clone https://github.com/SAP-samples/teched2022-IN261
