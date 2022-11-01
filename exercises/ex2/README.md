@@ -157,7 +157,7 @@ Note down / remember your BusinessPartnerId
   
 ![Pic 19](/./images/IN261-ex2-19.png)     
   
-9. In the Consume Messages section on the right, select your queue (IN261-test**) from the pull down menu.
+9. In the Consume Messages section on the right, select your queue (IN261_test_***) from the pull down menu.
   
 ![Pic 20](/./images/IN261-ex2-20.png)     
   
