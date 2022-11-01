@@ -185,7 +185,7 @@ You have now:
 
 - triggered a business partner event from SAP S/4HANA Cloud
 - created a queue and a topic subscription in SAP Event Mesh
-- have explored the BusinessPartner.changed event in your queue
-- have seen the updated customer added to the extension application
+- have explored the BusinessPartner.created event in your queue
+- have seen the copied customer added to the extension application
 
 Continue to - [Exercise 3 - Connect SAP Event Mesh to Advanced Event Mesh](../ex3/README.md)
