@@ -129,7 +129,7 @@ User: IN261_*** where you replace *** with your user number
 
 ![Pic 15](/./images/IN261-ex2-15.png)   
 
-3. Update the Last name with your TechEd user (IN261_*** where you replace *** with your user number)
+3. Update the first name with your TechEd user (IN261_*** where you replace *** with your user number)
 
 ![Pic 16](/./images/IN261-ex2-16.png)   
 
