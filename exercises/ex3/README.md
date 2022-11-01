@@ -16,7 +16,7 @@ After completing these steps you will have looked at the queue of your extension
 
 2. Click on Create Queue. The Create a New Queue pop up becomes visible.
 
-3. Enter IN261-aemconnect-** into Queue Name (replace ** with your number)
+3. Enter IN261_aemconnect_*** into Queue Name (replace *** with your number)
 
 ![Pic 2](/./images/IN261-ex3-2.png)
 
@@ -64,9 +64,7 @@ After completing these steps you will familiarized yourself with AEM.
 
 Link: https://eu10.console.pubsub.em.services.cloud.sap/home?login=true
 
-User: TechEd-IN261-** (replace ** with your user number)
-
-Password: <PASSWORD>
+User: IN261_*** (replace ** with your user number)
   
 2. Explore Advanced Event Mesh  
 
@@ -121,7 +119,7 @@ After completing these steps you will have created a queue in Advanced Event Mes
 
 12. Click on +Subscription
 
-13. Enter your topic into the field. Use IN261-aemconnect-topic-** (replace ** with your number)
+13. Enter your topic into the field. Use IN261_aemconnect_topic_*** (replace *** with your number)
 
 ![Pic 18](/./images/IN261-ex3-18.png)  
 
@@ -157,7 +155,7 @@ Now you will create a webhook to send events from SAP Event Mesh to Advanced Eve
   
 ![Pic 23](/./images/IN261-ex3-23.png)     
   
-8. Into the Subscription Name field enter: IN261-aemconnect-** (replace ** with your number)
+8. Into the Subscription Name field enter: IN261_aemconnect_*** (replace *** with your number)
   
 ![Pic 24](/./images/IN261-ex3-24.png)      
   
@@ -185,9 +183,9 @@ Now you will create a webhook to send events from SAP Event Mesh to Advanced Eve
 
 20. Now go back to the Webhook URL field
 
-21. Add /Topic/IN261-aemconnect-topic-** (replace ** with your number) behind the Webhook URL you had pasted there
+21. Add /Topic/IN261_aemconnect_topic-*** (replace *** with your number) behind the Webhook URL you had pasted there
 
-This will post the event to the topic IN261-aemconnect-topic-** . Make sure this matches the topic you have entered into the queue subscription in Advanced Event Mesh. 
+This will post the event to the topic IN261_aemconnect_topic_*** . Make sure this matches the topic you have entered into the queue subscription in Advanced Event Mesh. 
   
 ![Pic 25](/./images/IN261-ex3-25.png)      
   
