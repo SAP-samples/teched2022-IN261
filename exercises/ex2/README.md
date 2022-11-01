@@ -123,14 +123,14 @@ Link: https://my304263.s4hana.ondemand.com/ui#BusinessPartner-manage&/C_Business
 
 Log in with the data below:  
   
-User: IN261-*** where you replace *** with your user number
+User: IN261_*** where you replace *** with your user number
 Password: <PASSWORD>
 
 2. Click on Copy
 
 ![Pic 15](/./images/IN261-ex2-15.png)   
 
-3. Update the Last name with your TechEd user (TechEd-IN261-** where you replace ** with your user number)
+3. Update the Last name with your TechEd user (IN261_*** where you replace *** with your user number)
 
 ![Pic 16](/./images/IN261-ex2-16.png)   
 
