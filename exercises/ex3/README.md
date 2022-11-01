@@ -30,7 +30,7 @@ After completing these steps you will have looked at the queue of your extension
 
 7. In the drop down select Queue Subscriptions. This opens up the Queue Subsciptions menu.
 
-8. Copy the following into Topic: sap/S4HANAOD/1406/ce/sap/s4/beh/businesspartner/v1/BusinessPartner/Changed/v1	
+8. Copy the following into Topic: sap/S4HANAOD/S4HC/ce/sap/s4/beh/businesspartner/v1/BusinessPartner/Changed/v1	
 
 HINT: make sure you copied this exactly and there are no spaces etc 
 
@@ -40,7 +40,7 @@ HINT: make sure you copied this exactly and there are no spaces etc
 
 10. You should see the topic added under Subscribed Topic Name
 
-11. Copy the following into Topic: sap/S4HANAOD/1406/ce/sap/s4/beh/businesspartner/v1/BusinessPartner/Created/v1	
+11. Copy the following into Topic: sap/S4HANAOD/S4HC/ce/sap/s4/beh/businesspartner/v1/BusinessPartner/Created/v1
 
 ![Pic 5](/./images/IN261-ex3-5.png)
 
