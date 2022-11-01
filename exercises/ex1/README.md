@@ -15,20 +15,20 @@ You will see how easy it is to look up available events in the SAP API Business 
 
 ![Pic 2](/./images/IN261-ex1-2.png)
 
-4. On the next screen, click on Events
+3. On the next screen, click on Events
 
 ![Pic 3](/./images/IN261-ex1-3.png)
 
-6. Now you can just scroll down to the Business Partner Events tile.
+4. Now you can just scroll down to the Business Partner Events tile.
 
 ![Pic 4](/./images/IN261-ex1-4.png)
 
-8. Click on the tile. This will take you to the Event Overview page.
+5. Click on the tile. This will take you to the Event Overview page.
 
 ![Pic 4](/./images/IN261-ex1-5.png)
 
-10. Click on View Event References
-11. Now you can select your operations on the left (Changed, Created) or drill deeper into header and payload. 
+6. Click on View Event References
+7. Now you can select your operations on the left (Changed, Created) or drill deeper into header and payload. 
 
 ![Pic 4](/./images/IN261-ex1-6.png)
 
@@ -44,7 +44,7 @@ HINT: the environment is pre-configured to expose events. We will use a shared c
 
 https://my401666.s4hana.cloud.sap/ui#Shell-home 
 
-3. Click on the Enterprise Event Enablement Tile (under Enterprise Event Enablement)
+2. Click on the Enterprise Event Enablement Tile (under Enterprise Event Enablement)
 
 ![Enterprise Event Enablement](/./images/IN261-ex1-7.png)
 
