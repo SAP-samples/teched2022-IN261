@@ -19,7 +19,7 @@ Now we will log into SAP Event Mesh and explored its main features.
 
 Link: https://in261-s3nsxp9r.enterprise-messaging.cfapps.eu10.hana.ondemand.com/cockpit/#/home/message-clients
 
-User: IN261-*** where you replace *** with your user number
+User: IN261_*** where you replace *** with your user number
 
 Password:
 
