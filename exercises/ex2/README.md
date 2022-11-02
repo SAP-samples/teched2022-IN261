@@ -119,7 +119,7 @@ After completing these steps you will have triggered an event in SAP S/$HANA by 
 
 1. Log into the SAP S/4HANA system and go directly to the Manage Business Partner transaction:
 
-Link: (https://my401666.s4hana.cloud.sap/ui#BusinessPartner-manage&/C_BusinessPartner(BusinessPartner='1000450',DraftUUID=guid'00000000-0000-0000-0000-000000000000',IsActiveEntity=true))
+Link: https://my401666.s4hana.cloud.sap/ui#BusinessPartner-manage&/C_BusinessPartner(BusinessPartner='1000243',DraftUUID=guid'00000000-0000-0000-0000-000000000000',IsActiveEntity=true)
 
 Log in with the data below:  
   
