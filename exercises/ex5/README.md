@@ -10,7 +10,7 @@ After completing these steps you will have created a queue on your second broker
 
 ![Pic 1](/./images/IN261-ex5-1.png)
   
-2. In the All Services screen click on the TechEd Las Vegas Tile (US West)
+2. In the All Services screen click on the TechEd Las Vegas Tile (US)
   
 3. Click in Manage
   
