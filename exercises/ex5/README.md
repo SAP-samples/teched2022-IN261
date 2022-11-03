@@ -1,6 +1,6 @@
 # Exercise 5 - Explore an event mesh spanning two continents in Advanced Event Mesh
 
-In this exercise, we will explore an already existing event mesh of three brokers: one in Europe, one on the West coast of the United States and another one in South Asia. 
+In this exercise, we will explore an already existing event mesh of three brokers: one in Europe, one the United States and another one in Asia. 
 
 ## Exercise 5.1 Create a Queue in your second broker
 
