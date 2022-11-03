@@ -10,7 +10,7 @@ After completing these steps you will have connected your Queue Consumer applica
 
 2. Go to teched2022-IN261-main
 
-3. Go to the directory tools/AEM Samples/src/basci-samples/QueueConsumer
+3. Go to the directory tools/AEM Samples/src/basic-samples/QueueConsumer
 
 
 ![Pic 1](/./images/IN261-ex4-1.png)
