@@ -81,7 +81,7 @@ After completing these steps you will have created a queue in Advanced Event Mes
   
 ![Pic 9](/./images/IN261-ex3-9.png)  
   
-2. In the All Services screen click on the TechEd Las Vegas Tile (Frankfurt)
+2. In the All Services screen click on the TechEd Las Vegas: Europe Tile (Frankfurt)
   
 ![Pic 10](/./images/IN261-ex3-10.png)    
   
