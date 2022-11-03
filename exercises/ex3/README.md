@@ -119,7 +119,7 @@ After completing these steps you will have created a queue in Advanced Event Mes
 
 12. Click on +Subscription
 
-13. Enter your topic into the field. Use IN261_aemconnect_topic_*** (replace *** with your number)
+13. Enter your topic into the field. Use IN261_aemconnect_***_topic (replace *** with your number)
 
 ![Pic 18](/./images/IN261-ex3-18.png)  
 
