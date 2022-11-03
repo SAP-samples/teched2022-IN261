@@ -48,7 +48,7 @@ After completing these steps you will have created a queue on your second broker
 
 ![Pic 9](/./images/IN261-ex5-9.png)   
 
-13. Enter the topic you had created in SAP Event Mesh when creating the webhook. This is most likely: IN261-aemconnect-topic-** (replace ** with your number)
+13. Enter the topic you had created in SAP Event Mesh when creating the webhook. This is most likely: IN261_aemconnect_***_topic (replace *** with your number)
 
 ![Pic 10](/./images/IN261-ex5-10.png)   
 
@@ -62,7 +62,7 @@ After completing these steps you will have consumed events using the Queue Consu
 
 1. Go to your Queue Consumer if it is still open and click on Disconnect - in case that it is not open any more, restart it
 
-2. Make sure that it listens to the same queue you have just created in the previous step: IN261-aemconnect-** (replace ** with your number) 
+2. Make sure that it listens to the same queue you have just created in the previous step: IN261_aemconnect_*** (replace ** with your number) 
 
 ![Pic 12](/./images/IN261-ex5-12.png)   
 
