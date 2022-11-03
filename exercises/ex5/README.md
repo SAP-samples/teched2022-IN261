@@ -76,7 +76,7 @@ If this is not the case, you have to adjust it in your QueueConsumer.html
 
 ![Pic 14](/./images/IN261-ex5-14.png)   
 
-5. Click on the tile for TechEd Las Vegas (West US) - ensure this is the second broker, not the one that you just disconnected from
+5. Click on the tile for TechEd Las Vegas (US) - ensure this is the second broker, not the one that you just disconnected from
 
 ![Pic 15](/./images/IN261-ex5-15.png)   
 
