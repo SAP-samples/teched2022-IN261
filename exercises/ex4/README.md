@@ -22,7 +22,7 @@ After completing these steps you will have connected your Queue Consumer applica
         // create the consumer, specifying name of the queue
         subscriber = new QueueConsumer('AEMCONNECT1');
         
-and replace AEMCONNECT1 with the name of your queue in Advanced Event Mesh, which should be AEMCONNECT** where ** is your individual number.
+and replace AEMCONNECT001 with the name of your queue in Advanced Event Mesh, which should be AEMCONNECT*** where ** is your individual number.
 
 ![Pic 2](/./images/IN261-ex4-2.png)
 
