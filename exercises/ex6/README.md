@@ -22,7 +22,7 @@ Insights allows you to use monitoring dashboards and configurable notifications 
 
 To learn more about the metrics and monitors that Advanced Event Mesh offers, click on the respective links.
 
-## Exercise 6.1 Event Management
+## Exercise 6.2 Event Management
 
 After completing these steps you will have looked into Event Management
 
