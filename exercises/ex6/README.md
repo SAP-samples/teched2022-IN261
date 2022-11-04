@@ -6,9 +6,11 @@ In this exercise, you will decide yourself what you would like to check on. Find
 
 ## Exercise 6.1 Explore Insights
 
-After completing these steps you will have looked into Insight
+After completing these steps you will have looked into Insights
 
 Insights allows you to use monitoring dashboards and configurable notifications to detect potential issues before they negatively impact your brokers and event broker services.
+
+Hint: the Datadog features are disabled and cannot be explored. If you want to see these, check with the instructor.
 
 1. Go to Advanced Event Mesh
 
@@ -24,7 +26,9 @@ To learn more about the metrics and monitors that Advanced Event Mesh offers, cl
 
 ## Exercise 6.2 Event Management
 
-After completing these steps you will have looked into Event Management
+Explore event management as part of Advanced Event Mesh by looking into the Event Portal section.
+
+![Pic 4](/./images/IN261-ex6-4.png)
 
 ## Summary
 
