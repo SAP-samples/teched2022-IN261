@@ -104,6 +104,50 @@ If this is not the case, you have to adjust it in your QueueConsumer.html
 
 ![Pic 20](/./images/IN261-ex5-20.png)   
 
+## Exercise 5.3 Consume events via a topic
+
+After completing these steps you will have consumed events via a topic from the third broker in the Event Mesh. You will use the Try Me ! feature of Advanced Event Mesh for this.
+
+1. Go to the cluster manager and select the third broker.
+
+![Pic 21](/./images/IN261-ex5-21.png)   
+
+2. Click Try Me !
+
+![Pic 22](/./images/IN261-ex5-22.png)   
+
+3. In the Subscriber section, click on show advanced settings
+
+![Pic 23](/./images/IN261-ex5-23.png)   
+
+4. Fill the data in the Establish connection section. You can get this data in the connect part like before. Go to Connect and the Solace Web Messaging section. 
+
+![Pic 24](/./images/IN261-ex5-24.png)   
+
+5. Copy the Connection Details and fill them into the fields in Try Me !
+
+![Pic 25](/./images/IN261-ex5-25.png)   
+
+6. Click on Connect
+
+![Pic 26](/./images/IN261-ex5-26.png)   
+
+7. Fill your topic into Subscribe Add Topic
+
+Your topic should be IN261_aemconnect_***_topic where you replace *** with your number
+
+![Pic 27](/./images/IN261-ex5-27.png)   
+
+8. Click on Subscribe
+
+You should see your topic in Subscribed Topics
+
+9. Go back to the S/4HANA system and trigger an event by changing the Business Partner
+
+10. You should see your event in the messages section
+
+![Pic 28](/./images/IN261-ex5-28.png)   
+
 ## Summary
 
 You've now seen what a mesh looks like in Advanced Event Mesh. You consumed the events from a queue on the second broker in the mesh - the one on the US West Coast. The forwarding of events has happened automatically based on the topic that the queue is subscribed to.
