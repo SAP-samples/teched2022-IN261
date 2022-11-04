@@ -185,7 +185,7 @@ Now you will create a webhook to send events from SAP Event Mesh to Advanced Eve
 
 21. Add /Topic/IN261_aemconnect_***_topic (replace *** with your number) behind the Webhook URL you had pasted there
 
-This will post the event to the topic IN261_aemconnect_topic_*** . Make sure this matches the topic you have entered into the queue subscription in Advanced Event Mesh. 
+This will post the event to the topic IN261_aemconnect_***_topic . Make sure this matches the topic you have entered into the queue subscription in Advanced Event Mesh. 
   
 ![Pic 25](/./images/IN261-ex3-25.png)      
   
