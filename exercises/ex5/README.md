@@ -110,6 +110,6 @@ You've now seen what a mesh looks like in Advanced Event Mesh. You consumed the 
 
 You can easily extned this to the third broker by following the same procedure described above ...
 
-Continue to - [Exercise 6 - Start HTML Queue Consumer and consume filtered events](../ex6/README.md)
+Continue to - [Exercise 6 - Play Around with Advanced Event Mesh (optional)](../ex6/README.md)
 
 
