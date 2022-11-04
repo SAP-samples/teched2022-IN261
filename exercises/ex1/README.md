@@ -48,6 +48,8 @@ https://my401666.s4hana.cloud.sap/ui#Shell-home
 
 ![Enterprise Event Enablement](/./images/IN261-ex1-7.png)
 
+or alternatively enter Enterprise Event Enablement into the App selection box (if you cannot see the tiles) and start the app by clicking it in the drop down
+
 3. Click Go
 
 ![Go](/./images/IN261-ex1-8.png)
