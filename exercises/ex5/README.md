@@ -152,7 +152,7 @@ You should see your topic in Subscribed Topics
 
 You've now seen what a mesh looks like in Advanced Event Mesh. You consumed the events from a queue on the second broker in the mesh - the one on the US West Coast. The forwarding of events has happened automatically based on the topic that the queue is subscribed to.
 
-You can easily extned this to the third broker by following the same procedure described above ...
+You can easily extend this to the third broker by following the same procedure described above ...
 
 Continue to - [Exercise 6 - Play Around with Advanced Event Mesh (optional)](../ex6/README.md)
 
