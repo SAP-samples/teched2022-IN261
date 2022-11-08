@@ -115,7 +115,7 @@ This is where you will see additional customers added in real time after clickin
 
 ## Exercise 2.4 - Trigger an event and follow the flow all the way from SAP S/4HANA to the extension application
 
-After completing these steps you will have triggered an event in SAP S/$HANA by updating a business partner, have explored the event from the test queue and have seen how the business partner has been distributed to the extension application in near real time
+After completing these steps you will have triggered an event in SAP S/4HANA by updating a business partner, have explored the event from the test queue and have seen how the business partner has been distributed to the extension application in near real time
 
 1. Log into the SAP S/4HANA system and go directly to the Manage Business Partner transaction:
 
