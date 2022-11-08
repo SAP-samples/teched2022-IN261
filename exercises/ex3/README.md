@@ -64,7 +64,7 @@ After completing these steps you will familiarized yourself with AEM.
 
 Link: https://eu10.console.pubsub.em.services.cloud.sap/
 
-User: IN261_*** (replace ** with your user number)
+User: IN261_*** (replace *** with your user number)
   
 2. Explore Advanced Event Mesh  
 
