@@ -64,7 +64,7 @@ You should get a success message indicating that the connection has worked.
 
 After completing these steps you will have consumed events using the Queue Consumer
 
-1. In order to consumer messages from your queue, click on *Consume Messages*. If you would like to stop consuming later on, click *Stop Consuming*.
+1. In order to consume messages from your queue, click on *Consume Messages*. If you would like to stop consuming later on, click *Stop Consuming*.
 
 ![Pic 10](/./images/IN261-ex4-10.png)
 
