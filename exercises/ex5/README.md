@@ -104,7 +104,7 @@ If this is not the case, you have to adjust it in your QueueConsumer.html
 
 ![Pic 20](/./images/IN261-ex5-20.png)   
 
-## Exercise 5.3 Consume events via a topic
+## Exercise 5.3 Consume events via a topic on your third broker
 
 After completing these steps you will have consumed events via a topic from the third broker in the Event Mesh. You will use the Try Me ! feature of Advanced Event Mesh for this.
 
