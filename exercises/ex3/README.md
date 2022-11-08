@@ -99,7 +99,7 @@ After completing these steps you will have created a queue in Advanced Event Mes
   
 ![Pic 13](/./images/IN261-ex3-13.png)        
   
-6. In the pop up enter the queue name: IN261-aemconnect-*** (replace *** with your number)
+6. In the pop up enter the queue name: IN261_aemconnect_*** (replace *** with your number)
   
 7. Click Create
   
