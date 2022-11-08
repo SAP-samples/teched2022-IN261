@@ -94,7 +94,7 @@ SAP Integration Suite, advanced event mesh
 
     - [Exercise 5.1 - Create a Queue in your second broker](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex5#exercise-51-create-a-queue-in-your-second-broker)
     - [Exercise 5.2 - Consume and explore events in Queue Consumer](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex5#exercise-52-consume-and-explore-events-in-queue-consumer)
-    - [Exercise 5.3 - Consume events via a topic](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex5#exercise-53-consume-events-via-a-topic)
+    - [Exercise 5.3 - Consume events via a topic on your third broker](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex5#exercise-53-consume-events-via-a-topic)
   
     
 SAP Integration Suite, advanced event mesh (optional)       
