@@ -91,7 +91,7 @@ You have now created two queue subscriptions for BusinessPartner.Changed and Bus
 
 After completing these steps you will have gained a quick impression of an extension application on the SAP BTP.
 
-1. Now let's open the extension application. Click on: https://geo.cfapps.eu10.hana.ondemand.com/georelApplication.html#Shell-home 
+1. Now let's open the extension application. Click on: https://geo-kind-turtle-ix.cfapps.eu10-004.hana.ondemand.com/georelApplication.html#Shell-home  
 
 This will open the Home screen of our extension application.
 
