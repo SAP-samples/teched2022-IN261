@@ -145,7 +145,7 @@ Password:
 
 5. Select the Business Partner below
 
-![Pic 15](/./images/IN261-ex2-14-3.png)   
+![Pic 15](/./images/IN261-ex2-14-4.png)   
 
 Note: It is important for the Extension Application that the BusinessPartner has the Customer (FLCU01) role.
 
