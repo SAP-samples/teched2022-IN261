@@ -58,7 +58,7 @@ or alternatively enter Enterprise Event Enablement into the App selection box (i
 
 ![Pic 9](/./images/IN261-ex1-9.png)
 
-HINT: our channel is not active. This means that unless we activate the channel, no events are raised.
+HINT: our channel is not active. This means that unless we activate the channel, no events are raised. Please do not play around with the active channel since we will use it later on to raise our events.
 
 5. You should see the Business Partner events enabled in the Outbound Topics section
 
