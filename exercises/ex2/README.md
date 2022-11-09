@@ -153,10 +153,9 @@ Note: It is important for the Extension Application that the BusinessPartner has
 
 ![Pic 15](/./images/IN261-ex2-15.png)   
 
-7. Update the first name with your TechEd user (IN261_*** where you replace *** with your user number)
+7. Update the first name with your TechEd user (IN261_*** where you replace *** with your user number) and adjust the last name as well to your user number in writing (e.g. Sixteen)
 
 ![Pic 16](/./images/IN261-ex2-16.png)   
-
 
 8. Click Create
 
