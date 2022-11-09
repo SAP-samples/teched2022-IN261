@@ -119,25 +119,46 @@ This is where you will see additional customers added in real time after clickin
 
 After completing these steps you will have triggered an event in SAP S/4HANA by updating a business partner, have explored the event from the test queue and have seen how the business partner has been distributed to the extension application in near real time
 
-1. Log into the SAP S/4HANA system and go directly to the Manage Business Partner transaction:
+1. Log into the SAP S/4HANA system 
 
-Link: https://my401666.s4hana.cloud.sap/ui#BusinessPartner-manage&/C_BusinessPartner(BusinessPartner='1000450',DraftUUID=guid'00000000-0000-0000-0000-000000000000',IsActiveEntity=true)
+Link: https://my401666.s4hana.cloud.sap/ui#Shell-home
 
 Log in with the data below:  
   
 User: IN261_*** where you replace *** with your user number
 
-Note: It is important that the BusinessPartner has the Customer (FLCU01) role.
+Password:
 
-2. Click on Copy
+2. Go to the Business Partner Transaction 
+
+![Pic 15](/./images/IN261-ex2-14-2.png) 
+
+- Type Manage Business Partner Master Data into the Apps search field 
+
+- Select Manage Business Partner Master Data in the Drop Down
+
+3. In the Manage Business Partner Transaction type IN261 into the search field
+
+![Pic 15](/./images/IN261-ex2-14-3.png)   
+
+4. Click Go
+
+5. Select the Business Partner below
+
+![Pic 15](/./images/IN261-ex2-14-3.png)   
+
+Note: It is important for the Extension Application that the BusinessPartner has the Customer (FLCU01) role.
+
+6. Click on Copy
 
 ![Pic 15](/./images/IN261-ex2-15.png)   
 
-3. Update the first name with your TechEd user (IN261_*** where you replace *** with your user number)
+7. Update the first name with your TechEd user (IN261_*** where you replace *** with your user number)
 
 ![Pic 16](/./images/IN261-ex2-16.png)   
 
-4. Click Create
+
+8. Click Create
 
 Wait for the creation to finish and keep the page open / bookmark this page for later use
 
@@ -149,37 +170,37 @@ Note down / remember your BusinessPartnerId
 
 ![Pic 17](/./images/IN261-ex2-17.png)   
 
-5. Go to SAP Event Mesh
+9. Go to SAP Event Mesh
 
-6. In case you are still in Event Mesh, click Refresh. If not, go to the Queues list.
+10. In case you are still in Event Mesh, click Refresh. If not, go to the Queues list.
   
-7. Find your queue. You should now see a number of messages in the queue. This is because everybody has probably already updated their Business Partner and the queue is listening to all Business Partner changes.
+11. Find your queue. You should now see a number of messages in the queue. This is because everybody has probably already updated their Business Partner and the queue is listening to all Business Partner changes.
   
 ![Pic 18](/./images/IN261-ex2-18.png)     
   
-8. Click on Test
+12. Click on Test
   
 ![Pic 19](/./images/IN261-ex2-19.png)     
   
-9. In the Consume Messages section on the right, select your queue (IN261_test_***) from the pull down menu.
+13. In the Consume Messages section on the right, select your queue (IN261_test_***) from the pull down menu.
   
 ![Pic 20](/./images/IN261-ex2-20.png)     
   
-10. Click on Consume Message
+14. Click on Consume Message
   
 ![Pic 21](/./images/IN261-ex2-21.png)       
   
-11. Consume the messages until you find your Business Partner Id in the data section   
+15. Consume the messages until you find your Business Partner Id in the data section   
 
 ![Pic 22](/./images/IN261-ex2-22.png)       
 
-12. Go to the Extension Application
+16. Go to the Extension Application
   
-13. Click Go
+17. Click Go
   
 ![Pic 23](/./images/IN261-ex2-23.png)     
   
-14. Find your Business Partner under Customer Name and confirm it has been added to the Extension Application. If you want to, you can play around with it some by changing the status etc.  
+18. Find your Business Partner under Customer Name and confirm it has been added to the Extension Application. If you want to, you can play around with it some by changing the status etc.  
   
 ![Pic 24](/./images/IN261-ex2-24.png)     
   
