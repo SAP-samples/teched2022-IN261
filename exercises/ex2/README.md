@@ -160,6 +160,8 @@ Note: It is important for the Extension Application that the BusinessPartner has
 
 8. Click Create
 
+![Pic 17](/./images/IN261-ex2-17.png)   
+
 Wait for the creation to finish and keep the page open / bookmark this page for later use
 
 You should have raised a BusinessPartner.Created Event. 
@@ -168,7 +170,6 @@ In the following steps, you will go to SAP Event Mesh and check on your queue an
   
 Note down / remember your BusinessPartnerId  
 
-![Pic 17](/./images/IN261-ex2-17.png)   
 
 9. Go to SAP Event Mesh
 
