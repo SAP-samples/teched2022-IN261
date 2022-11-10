@@ -87,6 +87,8 @@ After completing these steps you will have created a queue in Advanced Event Mes
   
 ![Pic 10](/./images/IN261-ex3-10.png)    
   
+HINT: If you cannot see the tiles, uncheck the Only show my services box
+  
 3. Click in Manage
   
 ![Pic 11](/./images/IN261-ex3-11.png)     
