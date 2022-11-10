@@ -17,7 +17,7 @@ Now we will log into SAP Event Mesh and explored its main features.
 
 1. Click on the link and enter your user and password:
 
-Link: https://in261-8hv3x7zb.authentication.eu10.hana.ondemand.com/login
+Link: https://in261-8hv3x7zb.enterprise-messaging.cfapps.eu10.hana.ondemand.com/
 
 User: IN261_*** where you replace *** with your user number
 
