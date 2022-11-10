@@ -137,33 +137,33 @@ Password:
 
 - Select Manage Business Partner Master Data in the Drop Down
 
-3. In the Manage Business Partner Transaction type IN261 into the search field
+3. In the Manage Business Partner Transaction type IN261_BP_*** into the search field where you replace *** with your three digit user number
 
 ![Pic 15](/./images/IN261-ex2-14-3.png)   
 
 4. Click Go
 
-5. Select the Business Partner below
+5. Click on your Business Partner 
 
 ![Pic 15](/./images/IN261-ex2-14-4.png)   
 
 Note: It is important for the Extension Application that the BusinessPartner has the Customer (FLCU01) role.
 
-6. Click on Copy
+6. Click on Edit
 
-![Pic 15](/./images/IN261-ex2-15.png)   
+![Pic 15](/./images/IN261-ex2-14-5.png)   
 
-7. Update the first name with your TechEd user (IN261_*** where you replace *** with your user number) and adjust the last name as well to your user number in writing (e.g. Sixteen)
+7. Update the search field of your business partner by replacing YOUR SEARCH TERM 
 
-![Pic 16](/./images/IN261-ex2-16.png)   
+![Pic 16](/./images/IN261-ex2-14-6.png)   
 
-8. Click Create
+8. Click Save
 
-![Pic 17](/./images/IN261-ex2-17.png)   
+![Pic 17](/./images/IN261-ex2-14-7.png)   
 
-Wait for the creation to finish and keep the page open / bookmark this page for later use
+Wait for the backend to finish and keep the page open / bookmark this page for later use
 
-You should have raised a BusinessPartner.Created Event. 
+You should have raised a BusinessPartner.Changed Event. 
   
 In the following steps, you will go to SAP Event Mesh and check on your queue and then check that the Business Partner got added to the Extension Application.
   
