@@ -62,7 +62,7 @@ After completing these steps you will familiarized yourself with AEM.
 
 1. Log into Advanced Event Mesh
 
-Link: https://eu10.console.pubsub.em.services.cloud.sap/
+Link: https://eu10.console.pubsub.em.services.cloud.sap/login?zone-id=908a280d-c2f1-4d2b-b003-de94ffc5a4ee
 
 User: in261-***@education.cloud.sap (replace *** with your user number)
 
