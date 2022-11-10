@@ -104,5 +104,9 @@ SAP Integration Suite, advanced event mesh (optional)
     - [Exercise 6.1 - Explore Insights](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex6#exercise-61-explore-insights)
     - [Exercise 6.2 - Event Management](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex6#exercise-61-event-management) 
 
+## How to obtain support
+
+Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
