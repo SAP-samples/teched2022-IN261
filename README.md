@@ -21,6 +21,7 @@ During the free flow part towards the end you can use the HTML/JS based event co
 Features touched, some just shortly, some in more detail, include:
 
 - SAP S/4HANA Cloud standard notification events
+- API Business Hub
 - SAP Event Mesh queues 
 - SAP Event Mesh queue subscriptions
 - SAP Event Mesh webhooks
@@ -30,6 +31,7 @@ Features touched, some just shortly, some in more detail, include:
 - SAP Integration Suite, advanced event mesh Mesh Manager 
 - SAP Integration Suite, advanced event mesh Event Insights 
 - SAP Integration Suite, advanced event mesh Event Designer and Event Management
+- SAP Integration Suite, advanced event mesh Try Me!
 
 ## Scenario Setup
 
