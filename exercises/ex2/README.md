@@ -15,13 +15,13 @@ Since the extension application does not consume from our test queue, we can con
 
 Now we will log into SAP Event Mesh and explored its main features.
 
-1. Click on the link and enter your user and password:
+1. Click on the link and select the authentication provider:
 
 Link: https://in261-8hv3x7zb.enterprise-messaging.cfapps.eu10.hana.ondemand.com/
 
-User: IN261_*** where you replace *** with your user number
+Click on: httpsaecr1xjot.accounts.ondemand.com
 
-Password:
+![Pic 2](/./images/IN261-ex2-0.png)
 
 2. You will see the Message Clients. Click on IN261_Consumer.
 
