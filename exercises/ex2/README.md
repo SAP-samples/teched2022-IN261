@@ -23,6 +23,12 @@ Click on: httpsaecr1xjot.accounts.ondemand.com
 
 ![Pic 2](/./images/IN261-ex2-0.png)
 
+Enter your user and password if requested.
+
+User: IN261_*** (replace *** with your user number)
+
+Password:
+
 2. You will see the Message Clients. Click on IN261_Consumer.
 
 ![Pic 2](/./images/IN261-ex2-2.png)
