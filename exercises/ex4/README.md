@@ -28,7 +28,7 @@ and replace IN261_aemconnect_001 with the name of your queue in Advanced Event M
 
 6. Save the file after you have made the changes.
 
-7. Double click on QueueConsumer.html. The Queue Consumer app opens up.
+7. Double click on QueueConsumer.html and open in a browser.
 
 ![Pic 3](/./images/IN261-ex4-3.png)
 
