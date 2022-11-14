@@ -141,6 +141,8 @@ Password:
 
 - Type Manage Business Partner Master Data into the Apps search field 
 
+HINT: you might have to click the searcg symbol before the search field opens
+
 - Select Manage Business Partner Master Data in the Drop Down
 
 3. In the Manage Business Partner Transaction type IN261_BP_*** into the search field where you replace *** with your three digit user number
