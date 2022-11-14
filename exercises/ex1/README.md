@@ -1,8 +1,8 @@
 # Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)
 
-THIS IS AN OPTIONAL EXERCISE TO PROVIDE YOU WITH A REAL END-TO-END VIEW. IT PROVIDES YOU WITH A BACKGROUND ON SAP S/4HANA EVENTS.
+THIS IS AN OPTIONAL EXERCISE TO PROVIDE YOU WITH A REAL END-TO-END VIEW. IT PROVIDES YOU WITH A BACKGROUND ON SAP S/4HANA and SAP S/4HANA Cloud events.
 
-We will look for and at Business Partner events on the SAP API Business Hub and will see how to enable these events in SAP S/4HANA Cloud. 
+We will look for and at Business Partner events on the SAP API Business Hub, and will see how to enable these events in SAP S/4HANA Cloud. 
 
 ![Pic 1](/./images/IN261-ex1-1.png)
 
