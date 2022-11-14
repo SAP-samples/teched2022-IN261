@@ -127,7 +127,7 @@ After completing these steps you will have triggered an event in SAP S/4HANA by 
 
 1. Log into the SAP S/4HANA system 
 
-Link: https://my401666.s4hana.cloud.sap/ui#Shell-home
+Link: https://my401666.s4hana.cloud.sap
 
 Log in with the data below:  
   
