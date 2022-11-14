@@ -15,7 +15,7 @@ After completing these steps you will have connected your Queue Consumer applica
 
 ![Pic 1](/./images/IN261-ex4-1.png)
 
-4. Open up the QueueConsumer.html file with an editor
+4. Open up the QueueConsumer.html file with an editor (e.g. VisualStudio by right clicking in the file)
 
 5. Go to the line
 
