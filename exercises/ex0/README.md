@@ -8,14 +8,17 @@ There are two options to get access to the tools needed later.
 
 ### Option 1 - Clone the GitHub repository
 
-To check out the project, clone this GitHub repository by opening a terminal and typing:
+To check out the project, clone this GitHub repository by opening a terminal (cmd in Windows search) and copying the below into the window:
 
 ```
 git clone https://github.com/SAP-samples/teched2022-IN261
-cd teched2022-IN261-main/tools/AEM Samples/src/basic-samples
 ```
 
-You will have to enter your user and password for GitHub.
+Then open your Explorer and open the folder that you have just cloned. 
+
+You will find it in your user directory.
+
+Go to: teched2022-IN261-main/tools/AEM Samples/src/basic-samples
 
 ### Option 2 - Download and unzip
 
