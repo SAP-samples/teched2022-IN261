@@ -14,7 +14,7 @@ To check out the project, clone this GitHub repository by opening a terminal (cm
 git clone https://github.com/SAP-samples/teched2022-IN261
 ```
 
-Then open your Explorer and open the folder that you have just cloned. 
+Then open your Explorer and go to the folder that you have just cloned. 
 
 You will find it in your user directory.
 
