@@ -8,8 +8,6 @@ After completing these steps you will have created a queue and a topic subscript
 
 In the end, these are the same steps you have performed before, just not for a test queue but for a queue used for Advanced Event Mesh connectivity from SAP Event Mesh.
 
-After completing these steps you will have looked at the queue of your extension application and will have created a queue and a topic subscription.
-
 1. Go to your Message Client (IN261_Consumer) and select Queues
 
 ![Pic 1](/./images/IN261-ex3-1.png)
