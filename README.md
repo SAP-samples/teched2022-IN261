@@ -60,7 +60,7 @@ Preparation
 
 - [Getting Started](exercises/ex0/)
 
-SAP S/4HANA (optional)
+SAP S/4HANA Cloud (optional)
 
 - [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional/demo)](exercises/ex1/)
 
