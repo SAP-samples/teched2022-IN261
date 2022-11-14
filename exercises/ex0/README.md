@@ -28,6 +28,8 @@ To download, click on Code and select Download ZIP
 
 ![Download ZIP](/./images/IN261-ex0-1.png)
 
+Unzip the file you have downloaded (Right click on the zip and select Extract All; then click Extract).
+
 ## Result of cloning or download and unzipping
 
 The result should look like this:
