@@ -13,7 +13,7 @@ Since the extension application does not consume from our test queue, we can con
 
 ## Exercise 2.1 - Log into SAP Event Mesh and make yourself familiar with it
 
-Now we will log into SAP Event Mesh and explored its main features.
+Now we will log into SAP Event Mesh and explore its main features.
 
 1. Click on the link and select the authentication provider:
 
