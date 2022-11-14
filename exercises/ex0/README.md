@@ -50,8 +50,6 @@ When you run through the exercise steps, you need to ensure that you use your pa
 
 Ensure you know the right number.
 
-## System logon and user information
-
 ## Summary
 
 Now that you have run through the preparation, continue to [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud](../ex1/README.md)
