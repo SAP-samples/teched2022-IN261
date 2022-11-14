@@ -18,7 +18,7 @@ Then open your Explorer and open the folder that you have just cloned.
 
 You will find it in your user directory.
 
-Go to: teched2022-IN261-main/tools/AEM Samples/src/basic-samples
+Go to: your user directory and then to teched2022-IN261-main/tools/AEM Samples/src/basic-samples
 
 ### Option 2 - Download and unzip
 
