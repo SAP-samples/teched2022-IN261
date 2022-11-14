@@ -62,7 +62,7 @@ Preparation
 
 SAP S/4HANA (optional)
 
-- [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)](exercises/ex1/)
+- [Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional/demo)](exercises/ex1/)
 
     - [Exercise 1.1 - Look up BusinessPartner events in SAP API Business Hub (optional)](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex1#exercise-11---look-up-the-businesspartner-events-in-sap-api-business-hub-optional)
     - [Exercise 1.2 - Explore events in SAP S/4HANA (optional)](https://github.com/SAP-samples/teched2022-IN261/tree/main/exercises/ex1#exercise-12---explore-switching-events-on-in-sap-s4hana-optional)
