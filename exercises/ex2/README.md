@@ -103,6 +103,8 @@ Click on: https://geo-kind-turtle-ix.cfapps.eu10-004.hana.ondemand.com/georelApp
 
 This will open the Home screen of our extension application.
 
+HINT: you might have to do a reload for the app to open
+
 2. Click on the tile GeoRelations
 
 This opens the FioriElements app.
@@ -135,17 +137,17 @@ User: IN261_*** where you replace *** with your user number
 
 Password:
 
-2. Go to the Business Partner Transaction 
+2. Go to the Business Partner App
 
 ![Pic 15](/./images/IN261-ex2-14-2.png) 
 
 - Type Manage Business Partner Master Data into the Apps search field 
 
-HINT: you might have to click the searcg symbol before the search field opens
+HINT: you might have to click the search symbol before the search field opens
 
 - Select Manage Business Partner Master Data in the Drop Down
 
-3. In the Manage Business Partner Transaction type IN261_BP_*** into the search field where you replace *** with your three digit user number
+3. In the Manage Business Partner App type IN261_BP_*** into the search field where you replace *** with your three digit user number
 
 ![Pic 15](/./images/IN261-ex2-14-3.png)   
 
