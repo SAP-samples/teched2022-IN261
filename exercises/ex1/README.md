@@ -1,4 +1,4 @@
-# Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)
+# Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (demo)
 
 THIS IS AN OPTIONAL EXERCISE TO PROVIDE YOU WITH A REAL END-TO-END VIEW. IT PROVIDES YOU WITH A BACKGROUND ON SAP S/4HANA AND SAP S/4HANA CLOUD EVENTS.
 
