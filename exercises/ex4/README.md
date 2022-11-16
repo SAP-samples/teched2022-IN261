@@ -74,6 +74,8 @@ After completing these steps you will have consumed events using the Queue Consu
 
 ![Pic 11](/./images/IN261-ex4-11.png)
 
+HINT: most likely you will receive several events at the same time from other users as well. These had been buffered for you in your queue.
+
 ## Summary
 
 You have now connected your queue consumer to your queue in Advanced Event Mesh and have consumed your first events
