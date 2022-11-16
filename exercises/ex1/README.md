@@ -1,4 +1,4 @@
-# Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (demo)
+# Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud (optional)
 
 THIS IS AN OPTIONAL EXERCISE TO PROVIDE YOU WITH A REAL END-TO-END VIEW. IT PROVIDES YOU WITH A BACKGROUND ON SAP S/4HANA AND SAP S/4HANA CLOUD EVENTS.
 
@@ -34,7 +34,7 @@ You will see how easy it is to look up available events in the SAP API Business 
 
 8. Check out the exmaples for *Payload* and *Headers*
 
-## Exercise 1.2 - Explore switching events on in SAP S/4HANA (optional)
+## Exercise 1.2 - Explore switching events on in SAP S/4HANA (demo only)
 
 Now we will look at how to switch events on in SAP S/4HANA.
 
