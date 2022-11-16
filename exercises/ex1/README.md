@@ -34,7 +34,7 @@ You will see how easy it is to look up available events in the SAP API Business 
 
 8. Check out the examples for *Payload* and *Headers*
 
-## Exercise 1.2 - Explore switching events on in SAP S/4HANA (demo only)
+## Exercise 1.2 - Explore switching events on in SAP S/4HANA (for your reference to detail out demo only - PLEASE SKIP)
 
 Now we will look at how to switch events on in SAP S/4HANA.
 
