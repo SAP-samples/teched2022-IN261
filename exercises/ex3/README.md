@@ -165,7 +165,7 @@ Now you will create a webhook to send events from SAP Event Mesh to Advanced Eve
   
 10. Exempt Handshake: set to YES by clicking on the button
   
-11. Go to Advanced Event Mesh and copy the Webhook URL. You can click on the copy icon behind Secured Web Messaging Host / Public Internet.
+11. Go to Advanced Event Mesh and copy the Webhook URL.
   
 12. Paste this into SAP Event Mesh - Webhook URL
   
