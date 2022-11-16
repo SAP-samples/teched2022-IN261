@@ -64,7 +64,7 @@ Link: https://eu10.console.pubsub.em.services.cloud.sap/login?zone-id=908a280d-c
 
 User: in261-***@education.cloud.sap (replace *** with your user number)
 
-Password:
+Password: see whiteboard
   
 2. Explore Advanced Event Mesh  
 
