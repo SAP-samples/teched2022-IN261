@@ -148,6 +148,8 @@ You should see your topic in Subscribed Topics
 
 ![Pic 28](/./images/IN261-ex5-28.png)   
 
+HINT: remember how your queue buffered events for you? This is not the case here. There is no buffering. Only events triggered while you are listening end up here. So you could disconnect and raise an event. You should not see it when you connect again.
+
 ## Summary
 
 You've now seen what a mesh looks like in Advanced Event Mesh. You consumed the events from a queue on the second broker in the mesh - the one on the US West Coast. The forwarding of events has happened automatically based on the topic that the queue is subscribed to.
