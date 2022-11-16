@@ -10,7 +10,7 @@ After completing these steps you will have looked into Insights
 
 Insights allows you to use monitoring dashboards and configurable notifications to detect potential issues before they negatively impact your brokers and event broker services.
 
-Hint: the Datadog features are disabled and cannot be explored. If you want to see these, check with the instructor.
+Hint: the Datadog features might be disabled. If you want to see these, check with the instructor.
 
 1. Go to Advanced Event Mesh
 
