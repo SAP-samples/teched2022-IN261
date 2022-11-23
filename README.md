@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-IN261)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-IN261)
+
 # IN261 - Experience Event-Driven Integrations Hands-On with SAP Integration Suite
 
 ![Pic 1](/./images/IN261-1.png)
